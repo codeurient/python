@@ -1,6 +1,7 @@
-# 1. finally - kod ister xeta versin ister xeta vermesin, yenede en sonda, finalda nese 
-# ekrana yazdirmaq isteyirikse, yaxud her hansisa bir kodu iwe salmaq isteyirikse finally kod 
-# blokundan istifade edirik. 
+# her wey qaydasindadirsa onda neticeni ekrana yazdirmaq ucun en sonda else yazaraq bunu ede bilerik.
+
+# else yeni eks halda demekdir.
+
 
 try:
     bolunen  = int(input("Bir eded daxil edin"))
@@ -17,5 +18,3 @@ except Exception as e:
     print("Bir xeta var")
 else:
     print(netice)
-finally: 
-    print("Bura her zaman iwleyecek hissedir.") 
