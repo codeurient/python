@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cavidan</title>
+    <link rel="stylesheet" href="css/hereket.css">
+</head>
+
+
+
+
+<body> 
+    
+    <!-- salam
+
+
+        klass adlari nece olmalidir:
+        1. sadece reqem olmaz
+        2. herf olmalidir
+        3. herfin sonunda reqem olar
+
+        4. class="cavidan"
+        5. class="cavidanAbdullazade"
+        6. class="cavidan-abdullazade"
+        7. class="cavidan_abdullazade"
+
+        8. class="cavidan abdullazade"
+
+        ctrl + C - kopyalamaq
+        ctrl + V - yapisdirmaq
+        ctrl + X - kesir
+        ctrl + A - HER SEYI SEC
+
+
+        9. avto genislik var
+        10. avto hundruluk yoxdu
+
+
+        11. justify-content
+        
+        12. align-content
+        13. align-items
+        14. align-self
+
+        15. flex sozu olan css stilleri
+
+
+     -->
+
+
+    <div class="ana">
+
+        <div class="bir">1</div>
+        <div class="iki">2</div>
+        <div class="uc">3</div>
+        <div class="dord">4</div>
+        <div class="bes">5</div>
+        <div class="bes">5</div>
+        <div class="bes">5</div>
+    
+    </div>
+    
+    </body> 
+</html> 
