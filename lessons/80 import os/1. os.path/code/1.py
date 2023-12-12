@@ -18,13 +18,13 @@
 # os.path.isfile(path)                  - yolun fayl olub olmadigini teyin edir.
 # os.path.isdir(path)                   - yolun qovluq olub olmadigini teyin edir.
 # os.path.islink(path)                  - yolun link olub olmadigini teyin edir.
-# os.path.ismount(path)                 -
-# os.path.join(path1[, path2[, ...]])   -
-# os.path.normcase(path)                -
-# os.path.normpath(path)                -
-# os.path.realpath(path)                -
-# os.path.relpath((path, start=None)    -
-# os.path.samefile(path1, path2)        -
+# os.path.ismount(path)                 - bu metod mount nöqtəsinə qoşulmaq üçündür.
+# os.path.join(path1[, path2[, ...]])   - emeliyyat sisteminden asili olaraq deyerleri yol formatina salir.
+# os.path.normcase(path)                - fayllarin yaxud qovluqlarin yol adlarini duzgun formaya salir
+# os.path.normpath(path)                - normaya uygun yazilmayan yollari duzelderek normal veziyyete getirir.
+# os.path.realpath(path)                - faylin yerlesdiyi mutleq (absolute) yolu elde etmek ucundur.
+# os.path.relpath((path, start=None)    - 2ci parametrdeki yola nisbeten 1ci parametrde olan yolun harda yerlewdiyini teyin edir.
+# os.path.samefile(path1, path2)        - 
 # os.path.sameopenfile(fp1, fp2)        -
 # os.path.split(path)                   -
 # os.path.splitdrive(path)              -
