@@ -13,6 +13,7 @@ def yeni_oyun():
         texminler.append(texmin)
         dogru_texminler += suali_yoxla(sual.get(acarlar), texmin)
         sualin_nomresi += 1 
+    #//! 1 - Birinci parametr kimi necedene dogru texin etdik onu, ikinci parametr kimi oz texminlerimizi list kimi gonderirik. 
     xal_goster(dogru_texminler, texminler)
 
 def suali_yoxla(dogruCavab, bizimTexminimiz):
@@ -22,30 +23,28 @@ def suali_yoxla(dogruCavab, bizimTexminimiz):
     else:
         print("Yanlis")
         return 0
+#//! 2 - Bu funksiyanin icinde hem dogru cavablari hem bizim texminlerimizi hemde neçe dogru texmin etmisik onu faiz ile ekrana yazdiririq.
 def xal_goster(dogru_cavablar, texminlerimiz):
     print("-------------------------")
     print("Netice: ")
     print("-------------------------")
 
     print("Cavablar: ", end=" ")
-    for i in sual:  
+    for i in sual:  #//! 3 - sual dict-dir ve get() metodu dict-in deyerlerini elde etmek ucundur. get() icinde acar sozler yazilanda deyerleri elde edirik.
         print(sual.get(i), end=" ")
     print()
 
     print("Texminlerimiz: ", end=" ")
-    for i in texminlerimiz: 
+    for i in texminlerimiz: #//! 4 - texminlerimiz list-dir ve deyerleri i variable-ina gondererek ekrana yazdiririq.
         print(i, end=" ")
     print()
 
-    derece = int((dogru_cavablar/len(sual)) * 100) 
+    derece = int((dogru_cavablar/len(sual)) * 100) #//! 5 - Dogru cavablarin sayini faize cevirerek ekrana yazdiririq.
     print("Dogru texmin derecemiz: " + str(derece) + "%")
 
+# 
 def yeniden_oyna():
-    sorgu = input("Yeniden oynamaq isteyirsen mi? (Beli / Xeyr) : ").upper()
-    if sorgu == "BELI":
-        return True
-    else:
-        return False
+    pass
 
 sual = {
     "Python dilini kim yaradib? " : "A",
@@ -60,8 +59,3 @@ cavablar = [
     ["A. True", "B. False", "C. sometimes", "D. What's Earth?"]
 ]
 yeni_oyun()
-
-while yeniden_oyna():
-    yeni_oyun()
-
-print("Sagol!!!!!!!")

@@ -11,41 +11,23 @@ def yeni_oyun():
         texmin = input("Daxil edin (A, B, C veya D): ")
         texmin = texmin.upper()
         texminler.append(texmin)
-        dogru_texminler += suali_yoxla(sual.get(acarlar), texmin)
-        sualin_nomresi += 1 
-    xal_goster(dogru_texminler, texminler)
 
+        suali_yoxla(sual.get(acarlar), texmin)
+        
+        sualin_nomresi += 1 
+
+#//! parametr adlarina menali adlar veririk ki, neyin ne oldugunu daha rahat basa dusek.
+# Sonra ise if sorgusu ile hemin iki parametrde olan deyerleri muqayise edirik. Eger onlar
+# bir-birine baglidirsa onda ekrana print() metodu ile 'Dogru' stringini yazdiririq.
 def suali_yoxla(dogruCavab, bizimTexminimiz):
     if dogruCavab == bizimTexminimiz:
         print("Dogru")
-        return 1
-    else:
-        print("Yanlis")
-        return 0
-def xal_goster(dogru_cavablar, texminlerimiz):
-    print("-------------------------")
-    print("Netice: ")
-    print("-------------------------")
-
-    print("Cavablar: ", end=" ")
-    for i in sual:  
-        print(sual.get(i), end=" ")
-    print()
-
-    print("Texminlerimiz: ", end=" ")
-    for i in texminlerimiz: 
-        print(i, end=" ")
-    print()
-
-    derece = int((dogru_cavablar/len(sual)) * 100) 
-    print("Dogru texmin derecemiz: " + str(derece) + "%")
-
+# 
+def xal_goster():
+    pass
+# 
 def yeniden_oyna():
-    sorgu = input("Yeniden oynamaq isteyirsen mi? (Beli / Xeyr) : ").upper()
-    if sorgu == "BELI":
-        return True
-    else:
-        return False
+    pass
 
 sual = {
     "Python dilini kim yaradib? " : "A",
@@ -53,6 +35,7 @@ sual = {
     "Python adi, hansi komedi klubun adindan ilhamlanmisdir? " : "C",
     "Dunya yuvarlaqdir mi? " : "A",
 }
+
 cavablar = [
     ["A. Guido van Rossum", "B. Elon Musk", "C. Bill Gates", "D. Mark Zuckerburg"],
     ["A. 1989", "B. 1991", "C. 2000", "D. 2016"],
@@ -60,8 +43,3 @@ cavablar = [
     ["A. True", "B. False", "C. sometimes", "D. What's Earth?"]
 ]
 yeni_oyun()
-
-while yeniden_oyna():
-    yeni_oyun()
-
-print("Sagol!!!!!!!")

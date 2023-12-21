@@ -40,6 +40,9 @@ def xal_goster(dogru_cavablar, texminlerimiz):
     derece = int((dogru_cavablar/len(sual)) * 100) 
     print("Dogru texmin derecemiz: " + str(derece) + "%")
 
+#//! 1 - while konstruksiyasi default olaraq True oldugu ucun yeniden_oyna() funksiyasi çagrilir ve input() sahesine deyer girmeyimiz
+# istenilir. Eger if sorgusunda muqayise etdiyimiz deyer dogru olarsa, onda True qayidir ve while konstruksiyasi yeni_oyun() funksiyasini
+# yeniden cagirir. Eger False olarsa onda while konstruksiyasi işini dayandirir ve ekrana print() metodu sagol yazdirir. 
 def yeniden_oyna():
     sorgu = input("Yeniden oynamaq isteyirsen mi? (Beli / Xeyr) : ").upper()
     if sorgu == "BELI":
