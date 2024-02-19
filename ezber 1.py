@@ -1,22 +1,14 @@
 import math
 
-ad = input("Telebenin adini daxil edin: ")
-eded1 = abs(  float( input("Kesir eded daxil edin: ") )  )
-eded2 = abs(  int( input("Tam eded daxil edin: ") )  )
+ad = input("Adinizi daxil edin: ")
+soyad = input("Soyadini daxil edin: ")
+yash = int( input("Yasinizi daxil edin: ") )
+boy = float( input("Boyunuzu daxil edin: ") )
 
-enBoyukEded = max( eded1, eded2 )
-enKicikEded = min( eded1, eded2 )
+evezEdilen = "adim:"
+evezEden = "ismim:"
 
-yuxariYuvarlaqlasanEded = math.ceil(enBoyukEded)
-asagiYuvarlaqlasanEded = math.floor(enKicikEded)
-
-yuxariYuvarlaqlasanEded //= asagiYuvarlaqlasanEded
-
-umumiMelumatlar = "Telebenin adi: " + ad + ",  Bu hesablamanin cavabi beledir: " + str(math.sqrt(pow(yuxariYuvarlaqlasanEded, 5)))
-
-dilimlenmisInfo = slice(9, 13)
-evezEdilen = umumiMelumatlar[dilimlenmisInfo]
-evezEden = " ismi"
+umumiMelumatlar = "Menim adim: " + ad + ", Soyadim: " + soyad + ", Yasim: " + str(yash) + ", Boyum: " + str(boy)
 
 deyisdirilmisInfo = umumiMelumatlar.replace(evezEdilen, evezEden)
 

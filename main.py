@@ -1,29 +1,28 @@
-# daemon thread - seytan thread
+from tkinter import *
+from tkinter import filedialog
 
-# thread-ler hem ön hem arxa rejimde işleyirler.
+def yaddasaYaz():
+    fayl = filedialog.asksaveasfile(
+                                    initialdir="lessons/108 GUI (graphical user interface)/65 filedialog - asksaveasfile()",
+                                    defaultextension='.txt', 
+                                    filetypes=[
+                                        ("Text fayli",    ".txt"),
+                                        ("HTML fayli",    ".html"),
+                                        ("Diger fayllar", ".*"),
+                                    ])
+    if fayl is None:
+        return
+        
+    faylMetni = str(  metn.get(1.0, END)  )
+    fayl.write(faylMetni)
+    fayl.close()
 
-# daemon thread arxa rejimde iş goren thread-lere deyilir.
+pencere = Tk()
 
-# daemon thread-ler ancaq Ön rejimde thread işlediyi müddətcə işləyə bilər.
+duyme = Button(text='Yaddasa yaz', command=yaddasaYaz)
+duyme.pack()
 
-# Ön rejimde işləyən thread işini dayandırdıqda daemon thread-lərdə avtomatik olaraq öz işini dayandıracaqdır.
+metn = Text(pencere)
+metn.pack()
 
-#? Bu numune 'daemon thread' olmadan gosterilen numunedir. 
-import time
-import threading
-
-# funksiya variable yaradir ve sonsuz dongu her 1 saniye-den sonra "say" variable-inin deyerini 
-# bir-bir artirir.
-def vaxt():
-    say = 0
-    while True:
-        time.sleep(1)
-        say += 1
-        print("Sisteme daxil olma muddeti:", say, "saniye")
-
-x = threading.Thread(target=vaxt)
-x.start()
-
-# Terminal pencerede yazi yazaraq ENTER desek bele proqram öz işini dayandırmayacaqdır.
-# Bes nece etmek olar ?
-cavab = input("Cixis etmek isteyirsinizmi?\n")
+pencere.mainloop() 

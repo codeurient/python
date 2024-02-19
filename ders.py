@@ -1,9 +1,2 @@
-
-
-x = 5
-x +=  3
-
-print(x)
-
-
-
+for araliq in "Men dersleri oxumuram meni ere verin":
+    print(araliq)
