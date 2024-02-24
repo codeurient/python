@@ -11,7 +11,6 @@ enKicikEded = min( eded1, eded2, eded3, eded4, eded5)
 
 yuxariYuvarlaqlasanEded = math.ceil(enBoyukEded)
 asagiYuvarlaqlasanEded = math.floor(enKicikEded)
-
 hasil = yuxariYuvarlaqlasanEded * asagiYuvarlaqlasanEded
 
 print(  math.sqrt(  pow(hasil, 5)  )  )

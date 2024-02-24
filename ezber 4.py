@@ -6,10 +6,8 @@ eded2 = abs(  int( input("Tam eded daxil edin: ") )  )
 
 enBoyukEded = max( eded1, eded2 )
 enKicikEded = min( eded1, eded2 )
-
 yuxariYuvarlaqlasanEded = math.ceil(enBoyukEded)
 asagiYuvarlaqlasanEded = math.floor(enKicikEded)
-
 yuxariYuvarlaqlasanEded //= asagiYuvarlaqlasanEded
 
 if ad == "Yasar":

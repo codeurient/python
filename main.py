@@ -1,28 +1,15 @@
 from tkinter import *
-from tkinter import filedialog
+from time import *
 
-def yaddasaYaz():
-    fayl = filedialog.asksaveasfile(
-                                    initialdir="lessons/108 GUI (graphical user interface)/65 filedialog - asksaveasfile()",
-                                    defaultextension='.txt', 
-                                    filetypes=[
-                                        ("Text fayli",    ".txt"),
-                                        ("HTML fayli",    ".html"),
-                                        ("Diger fayllar", ".*"),
-                                    ])
-    if fayl is None:
-        return
-        
-    faylMetni = str(  metn.get(1.0, END)  )
-    fayl.write(faylMetni)
-    fayl.close()
+def vaxti_yenile():
+    vaxt_metni = strftime("%I:%M:%S")
+    vaxt_etiketi.config(text=vaxt_metni)
+
 
 pencere = Tk()
+vaxt_etiketi = Label(pencere, font=("Arial", 50), fg="#00FF00", bg="black")
+vaxt_etiketi.pack()
 
-duyme = Button(text='Yaddasa yaz', command=yaddasaYaz)
-duyme.pack()
+vaxti_yenile()
 
-metn = Text(pencere)
-metn.pack()
-
-pencere.mainloop() 
+pencere.mainloop()  
