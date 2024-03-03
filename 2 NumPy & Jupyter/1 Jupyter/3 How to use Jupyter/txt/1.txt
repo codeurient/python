@@ -1,0 +1,23 @@
+NumPy (Numerical Python) - Python proqramlaşdırma dilinin kitabxanasıdır. Məqsədi 
+iç-içə array və matrikslərlə işləmək və onlar üzərində riyazi əməliyyatlar aparmaqdır. NumPy, 
+məlumatlarla (datalarla) işləmək, müxtəlif hesablama əməliyyatlarını yerinə yetirmək üçün 
+fərqli alətlər təqdim edir. (metodlar, ndarray adlı obyekt kimi və.s) 
+
+
+NumPy, dövr yazmağa ehtiyac olmadan array-lar üzərində sürətli riyazi əməliyyatlar aparmaq üçün 
+bir sıra daxili funksiyalar təqdim edir.
+
+Broadcasting: NumPy, fərqli ölçülərə malik array-lar arasında əməliyyatları yerinə 
+yetirməyə imkan verən broadcasting mexanizmini dəstəkləyir. 
+
+Broadcasting nədir ? Pyhton dilində Broadcasting iç-içə olan array-ların bir-birinə avtomatik olaraq
+uyğunlaşdırılmasıdır. 
+
+Effektivliyi və güclü imkanları sayəsində, NumPy elmi hesablamalar, data işləmə, süni intellektin
+öyrənilməsi, qrafika, siqnalların təhlili və daha bir çox sahədə geniş şəkildə istifadə olunur.
+
+
+
+
+NumPy istifade etmek ucun ilk once hemin kitabxanani endirmek lazimdir
+Terminal pencerede yaziriq: pip install numpy

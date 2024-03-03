@@ -1,0 +1,6 @@
+Povit table -  melumatlar siyahisinda yer alan qeydlerimizi, melumatlarimiz daha rahat oxuna bilen, 
+daha rahat idare etmemize imkan yaradan formaya salmaqda istifade edilen sistemdir.
+
+
+
+1. Bu isarediyimiz yerleri etdikden sonra hotel_bookings siyahisina kecid edirik

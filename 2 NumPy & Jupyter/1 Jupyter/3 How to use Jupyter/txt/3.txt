@@ -1,0 +1,5 @@
+1. l1 variable-ina, icinde deyerler ile list, 12 variable-ina ise sadece 
+deyer olaraq 5 ededini verdik.
+
+
+2. l1 * l2 yazmaq, yeni l1 list-ini 5 defe tekrar et menasina gelir.

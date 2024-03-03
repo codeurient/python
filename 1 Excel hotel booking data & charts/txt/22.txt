@@ -1,0 +1,2 @@
+Metn qutusu yaratmaq ucun Insert bolmesinden Text elementini secerek Text Box alt elementi 
+ile metn qutu yarada bilerik

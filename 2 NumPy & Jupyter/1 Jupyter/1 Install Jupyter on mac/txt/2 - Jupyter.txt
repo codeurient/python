@@ -1,0 +1,25 @@
+(https://jupyter.org/install)
+
+Jupyter Notebook - web brovser uzerinde, kod yazmaga imkan saglayan server proqramidir.
+Ilk adi IPython Notebook idi cunki sadece python kodlarini destekleyirdi. Julia, Octave, R, 
+Haskel, Ruby ve.s kimi dilleri desteklemeye basladiqdan sonra ise adi deyiserek Jupyter Notebook oldu.
+
+Qısaca desək adından da görüldüyü kimi kodlarımızı bir not dəftərində tutmaq üçün istifadə edilir.
+
+Jupyter Notebook proqramının nə kimi xüsusiyyətləri vardır ?
+1. Web brovserKod yazmaga imkan saglayir
+2. Yazdigimiz kodu işə salaraq nəticəsini görə bilirik
+3. Qaldığımız yerdən dəvam etmək
+
+
+Bezi komputerlerin prosessoru kohneldiyi ucun Visual Studio Code kimi proqramlari acmaq mumkun
+olmadiginda Jupyter kimi web brovser uzerinde kodlarimizi yaza bileceyimiz alternativ proqramlardan 
+istifade ede bilerik.
+
+Jupyter proqramini yuklemek ucu terminal pencerede bu kodlari yazmaq lazimdir:
+1) pip install jupyterlab
+2) pip install notebook
+
+Proqram endirildikden sonra isə, işə salmaq üçün bu kodu yazmaq lazımdır.
+1) jupyter lab
+2) jupyter notebook - bize lazim olan budur. Biz heleki bununla iş görəcəyik.

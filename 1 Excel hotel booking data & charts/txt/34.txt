@@ -1,0 +1,3 @@
+Her hansisa bir pivot table secdikden sonra, Insert bolmesinden
+Slicer aleti vasitesi ile, Cedvelin ferqli xanalari haqqinda ayri-ayri
+melumatlar elde ede bilerik. 

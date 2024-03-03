@@ -1,0 +1,1 @@
+Shape Format bolmesinden metn qutusunun rengini ve icindeki yazinin rengini teyin etmek olar

@@ -1,0 +1,8 @@
+Pilot cedvelini, Insert bolmesinden 
+Recommended Charts yaxud onun yaninda 
+isaretlediyimiz elementlerin vasitesi 
+ile qrafik formasina cevire bilerik.
+
+Bu sehifede qrafik cedveli yaratdiqdan sonra
+Ctrl + X duymeleri ile kesib Dashboard sehifesine
+kocururuk.

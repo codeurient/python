@@ -1,0 +1,3 @@
+Asagi ox simvoluna basaraq dusen 
+menudan 1 yaxud 0 secerek, sadece 
+istediyimiz deyerleri goster deye bilerik.  

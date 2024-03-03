@@ -1,0 +1,2 @@
+Isarelenen duymeleri gizletmek ucun hemin duymelerin uzerinde
+mouse-un sag duymesini basaraq hide all deye bilerik.

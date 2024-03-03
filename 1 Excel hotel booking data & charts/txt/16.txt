@@ -1,0 +1,36 @@
+Bu ahede olan checkobx-lar, cedvelde olan xanalaridir.
+
+ 
+
+Bu xanalari asagida gorduyunuz 4 eded saheye 2 formada 
+yerlesdirmek mumkundur:
+1) checkbox-lari isaretleyerek
+2) drop-down ederek
+
+
+Eyni xanani 4 saheden sadece birine yerlesdirmek mumkundur.
+Values sahesi istisna olmaqla. Diger sahelere qoyulan xanalari, hemde
+eyni vaxtda Values sahesinede qoymaq mumkundur.
+
+4 sahede olan xanalari silmek ucun hemin xanani yuxarda olan saheye 
+drop-down etmek olar.
+
+
+
+
+81560 nefer cutluk gelib otele
+15253 nefer aile gelib
+22577 nefer subay gelib
+
+
+Umumi qalmaq isteyenlerin sayi
+
+Qalmaqdan imitna edenlerin sayi
+
+
+32424 nefer cutluk otelde qalmaqdan imtina edib
+15253 nefer aile otelde qalmaqdan imtina edib
+22577 nefer subay otelde qalmaqdan imtina edib
+
+
+

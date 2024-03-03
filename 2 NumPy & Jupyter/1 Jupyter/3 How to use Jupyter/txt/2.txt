@@ -1,0 +1,6 @@
+1. NumPy kitabxanasini import etdik. Ancaq heleki bu kitabxananin metodlarindan 
+istifade etmemisik. Hemin kitabxanani import etdikde ‘as np’ yazdiq. Bu o 
+demekdir ki, kitabxananin adini ‘np’ kimi cagirasiyiq ki, qisa ve tez olsun. 
+
+2. l2 ve l2 adinda 2 eded variable yaratdiq ve + (plus) operatoru ile onlari 
+birlesdirdik.

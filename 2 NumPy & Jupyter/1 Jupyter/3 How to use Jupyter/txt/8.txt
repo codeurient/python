@@ -1,0 +1,2 @@
+Jupyter de yazilan kodlari File sozune basasraq Save and Export
+bolmesinden ferqli formatlarda endirmek mumkundur.

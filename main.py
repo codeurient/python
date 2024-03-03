@@ -1,28 +1,10 @@
-from tkinter import *
-from time import *
+import numpy as np
 
-def vaxti_yenile():
-    vaxt_metni = strftime("%I:%M:%S")
-    vaxt_etiketi.config(text=vaxt_metni)
-    
-    gun_metni = strftime("%A")
-    gun_etiketi.config(text=gun_metni)
+qutu1 = np.array(  [     [  [30, 40], [60, 20]  ]     ]  )
+qutu2 = np.array(  [     [  [30, 20], [10, 20]  ]     ]  )
 
-    tarix_metni = strftime("%B %d, %Y")
-    tarix_etiketi.config(text=tarix_metni)
 
-    vaxt_etiketi.after(1000, vaxti_yenile)
+# divide() - bu metod vurma emeliyyati icra edir
 
-pencere = Tk()
-vaxt_etiketi = Label(pencere, font=("Arial", 50), fg="#00FF00", bg="black")
-vaxt_etiketi.pack()
-
-gun_etiketi = Label(pencere, font=("Arial", 25))
-gun_etiketi.pack()
-
-tarix_etiketi = Label(pencere, font=("Arial", 30))
-tarix_etiketi.pack()
-
-vaxti_yenile()
-
-pencere.mainloop()  
+print(  qutu1 / qutu2             )       # [  [     [1. 2.] [6. 1.]    ]  ]
+print(  np.divide(qutu1, qutu2)   )       # [  [     [1. 2.] [6. 1.]    ]  ]

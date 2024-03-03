@@ -1,0 +1,20 @@
+1. guest_type adli bir sutun yaratdiq 
+2. komanda yazdiq : =if(     and( ),     if( and( ) )      )
+3. and() dedikde birden cox elmenti eyni vaxtda muqayise etmis oluruq.
+4. Eger e2=2 ve f2=0 ve g2=0 olarsa “Couples” string-ini yazdir guest_type xanasina
+5. Sonra yene if() ile şert qoşuruq
+6. Eger e2=1 ve f2=0 ve g2=0 olarsa “Single” string-ini yazdir guest_type xanasina
+7. Eks halda “Family” string-ini yazdir guest_type xanasina
+
+
+adult - boyuk demekdir. Eger boyuk adam sayi 1 den cox olarsa bu cutluk demekdir. Yəni, Couples.
+Eger 1 nefer olarsa bu tek demekdir. Yəni, Single
+
+children ve babies xanalari eger 0 (sifir) olarsa bu usaq yoxdur menasina gelir. Eger usax yoxdursa,
+onda Couple yaxud Single deyerlerinden biri olsun. Eks halda usaq var menasina gelir ve usaq varsa 
+Family deyeri yazdirilacaqdir.
+
+
+
+
+=IF(AND(E2=2, F2=0, G2=0), "Couples", IF(AND(E2=1, F2=0, G2=0), "Single", "Family"))

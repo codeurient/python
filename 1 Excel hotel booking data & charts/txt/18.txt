@@ -1,0 +1,2 @@
+Umumi cemi sondurmek ucun, Design bolmesine kecid ederek Grand totals 
+menusunden Off for ROws and Columns secimini secirik.

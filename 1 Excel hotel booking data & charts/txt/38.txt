@@ -1,0 +1,3 @@
+Teyin etmis oldugumuz stilin uzerinde mouse-un sag
+duymesini secerek, Modify elementini sece ve yeniden 
+ferqli formaya sala bilerik cedveli.

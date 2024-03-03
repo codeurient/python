@@ -1,0 +1,7 @@
+Mouse-un sag duymesini
+basaraq, acilan pencereden
+Group secerek, iki ferqli
+elementi birlesdirmek olar.
+Bir qrup halina dusen ferqli
+elementleri artiq bir element
+kimi hereket edeceklerdir.

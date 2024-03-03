@@ -1,0 +1,32 @@
+1. room_status sutununda birinci xanani secdikden sonra komanda yaziria
+
+Z. Komanoa: =if(
+
+3. Yuxarda olan komandani yazdiqda sonra 'reserved _room_type' xanasini secirik
+
+5. Beraberlik simvolu qoyduqdan sonra 'assigned_room_type xanasini secirik
+
+6. Sonra vergul qoyaraq dirnaqciq icinde qeyd edirik "Desired"
+
+7. Sonra yene vergul goyarag eks halda ne olsun yazirig "Un-desired"
+
+8. Sonra Enter duymesini basaraq diger butun xanalari doldururuq.
+
+Burda musteri evvelceden bir otaq RESERV etmisdi ancaq her hansisa bir sebebe
+gore hemin otaq yox basqa otaq verildi. Bizde yeni xanada hemin vetendas ucun
+arzu olunan otaami voxsa arzu olunmavan otaami verildi deve aevd etdik. Artia
+uzun-uzun 2 ferqli xana muqayise etmeye ehtiyac qalmir bele yazdiqda. Gelecekde
+hemin musteri ucun endirim ederek otel gunahini yuya biler.
+
+
+
+
+reserved - evvelceden tutuldu
+assigned - teyin edildi
+desired - arzu edilen
+undesired - arzu edilmeyen
+
+
+
+=IF([@[reserved_room_type]]=[@[assigned_room_type]], "Desired", "Un-desired")
+
