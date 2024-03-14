@@ -1,4 +1,4 @@
-# rindex() - 3 parametr qebul edir.
+# index() - 3 parametr qebul edir.
 
 # 1ci - axtarilan deyer
 # 2ci - baslangic diapazonu

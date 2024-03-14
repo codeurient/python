@@ -6,4 +6,4 @@ telebe = ("Aleks", 21, "male", "green", "baku")
 if "male" in telebe: 
     print("Var!") 
 else: 
-    print("Yodur!")
+    print("Yoxdur!")

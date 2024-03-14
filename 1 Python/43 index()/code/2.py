@@ -3,6 +3,6 @@
 
 deyer = 'salam dunya, salam Python, salam sinif'
 
-print(   deyer.index('salam')   )  # 0
+print(   deyer.index('salam Python')   )  # 0
 
 # Axtarilan deyer tapilmadiqda xeta mesaji qaytarir: ValueError: substring not found
