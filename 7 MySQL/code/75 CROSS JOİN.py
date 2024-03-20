@@ -1,0 +1,1 @@
+# CROSS JOIN SQL'də iki cədvəlin bütün qeydlərinin bir-birilərinə birləşdirilməsindən ibarətdir. 

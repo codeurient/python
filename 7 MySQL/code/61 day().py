@@ -1,0 +1,1 @@
+# day() funksiyası gunu elde etmek ucun istifade edilir

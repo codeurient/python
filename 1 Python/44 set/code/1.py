@@ -6,5 +6,5 @@
 # hemin deyerler oz yerini deyiserek ekrana yazdirilacaqdir.
 
 
-my_set = {7, 1, 9, 4, 5, 3}
+my_set = {7, 1, 9, 4, 5, 3, 10}
 print(my_set)

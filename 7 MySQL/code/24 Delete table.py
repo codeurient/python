@@ -1,0 +1,1 @@
+# Cedveli silmek ucun Drop sozune basiriq

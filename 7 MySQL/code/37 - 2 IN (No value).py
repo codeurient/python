@@ -1,0 +1,1 @@
+# Eger deyerlerden biri olmaz ise onda movcud olan deyere gore axtaris edecek proqram.

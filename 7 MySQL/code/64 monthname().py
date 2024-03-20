@@ -1,0 +1,1 @@
+# monthname() funksiyası ayin gununun adini elde etmek ucun istifade edilir

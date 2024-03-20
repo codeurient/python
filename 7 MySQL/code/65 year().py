@@ -1,0 +1,1 @@
+# year() funksiyası ili elde etmek ucun istifade edilir

@@ -1,0 +1,1 @@
+# sum() funksiyasi müəyyən sütundakı dəyərlərin cəmini hesablamaq üçün istifadə olunur.

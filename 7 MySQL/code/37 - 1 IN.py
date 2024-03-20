@@ -1,0 +1,1 @@
+# IN operatoru bir dəyərin siyahıda olub olmadığını yoxlamaq üçün istifadə olunur.

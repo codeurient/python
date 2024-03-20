@@ -1,0 +1,1 @@
+# Lower() metodu string deyerleri kicik herf ile yazar

@@ -1,0 +1,1 @@
+# dayname() funksiyası heftenin gununun adini elde etmek ucun istifade edilir

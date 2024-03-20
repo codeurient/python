@@ -1,0 +1,1 @@
+# Upper() metodu string deyerleri boyuk herf ile yazar

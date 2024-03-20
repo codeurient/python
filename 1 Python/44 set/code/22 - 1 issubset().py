@@ -1,7 +1,7 @@
 # set.issubset(basqa_set)
 
-# issubset() - Bir set icinde olan elementler diger set icinde olan elemtler ile eynidirmi yoxlamaq ucun bu metoddan
-# istifade edilir. 
+# issubset() - Bir set icinde olan elementler diger set icinde olan elemtler ile eynidirmi yoxlamaq ucun bu 
+# metoddan istifade edilir. 
 
 
 # Muqayise vaxti, butun elementler movcud olarsa True eks halda False qayidir. 

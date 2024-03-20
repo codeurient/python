@@ -1,0 +1,1 @@
+# when ile birden cox sert qosa bilerik.

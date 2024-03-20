@@ -18,4 +18,3 @@ print(set2.issubset(set1))  # False
 
 #! Baxmiyaraq ki, set1 de olan elementler set2 de movcduddur, yenede 1 deyer (9) bele olmadigi ucun 
 #! hec bir element bir-birinin ALT ELEMENTI deyildir. 
-#! Ustunluk set2-dedir.
