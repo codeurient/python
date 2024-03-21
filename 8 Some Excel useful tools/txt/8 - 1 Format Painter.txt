@@ -1,0 +1,7 @@
+Birinci xanani secirik, Sonra Format Painter aletini secirik.
+
+Firca simvolu goreceyik. Bu simvolu hansi xanaya tetbiq etmek
+isteyirikse onun uzerine cekirik.
+
+Bu o demekdir ki, Last Name ucun olan formati diger yaziyada 
+kocur.

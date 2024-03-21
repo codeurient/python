@@ -1,0 +1,10 @@
+Ay adlari avto olaraq Ingilis dilinde oldugu ucun eger
+biz Azerbaycan dilinde ay adini yazarsaq Auto Fill ede bilmerik.
+
+Bunu duzeltmek ucun Xususi ozumuse mexsus siyahi yaradaraq,
+Azerbaycan dilinde olan ay adlarini hemin siyahi elave ede biler ve
+sonraki islerimizde artiq Azerbaycan dilinde bele olsa hemin ay adlarini
+Auto Fill yeni auto doldura bilerik.
+
+
+Ilk Once File -> Option -> Advanced -> Edit Custom Lists… demeliyik

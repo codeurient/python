@@ -1,0 +1,6 @@
+formullardan istifade ederek random ededler ve.s
+yaratdiqda ve diger xanalara mudaxile etdikde bu random deyerler
+her defe auto yenilenir. Hemin yenilenme olmasin deye bu deyerleri
+kopyalayib yeniden yapisdirmaq lazimdir. 
+
+Value kimi 

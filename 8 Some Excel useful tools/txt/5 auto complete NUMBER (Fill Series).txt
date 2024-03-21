@@ -1,0 +1,2 @@
+Eger reqemler sira ile artmaz ise, onda Fill Series yazisini
+secerek auto tamamlanmani duzelde bilerik
