@@ -8,4 +8,3 @@ telebe_melumatlari = {"ad": "Kamal", "yash": 16, "bal": 655}
     # 3ci parametri separators=(',',    '=')        - melumatlar vergul ve beraberlik simvollari ile ayrilsin bir-birinden
 melumat = json.dumps(telebe_melumatlari, indent=10, separators=(',',     '='))
 print(  melumat  )
-

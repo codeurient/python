@@ -1,4 +1,4 @@
-# remove() - bu metoddan list -in en icinden deyer silmek ucun istifade edilir
+# remove() - bu metoddan list-in icinden deyer silmek ucun istifade edilir
 
 # Olmuyan deyeri silmek istedikde xeta alariq.
 

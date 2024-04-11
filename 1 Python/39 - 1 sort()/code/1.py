@@ -7,6 +7,7 @@
 
 telebeler = ["Cavidan", "Anar", "Seymur", "Huseyn", "Nurlan"]
 
+
 telebeler.sort()
 
 for i in telebeler:

@@ -17,3 +17,5 @@ for i in telebeler:
 # ekrana yazdirdiqda tuple-larin 1ci deyerine gore siralanma bas verir. 
 # 1ci deyer adlardir. 
     print(i)
+
+

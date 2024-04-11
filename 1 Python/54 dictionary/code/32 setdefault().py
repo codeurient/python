@@ -8,7 +8,7 @@
 # 1ci parametr acar sozdur. Eger hemin acar soz luget icinde movcuddursa, onda hemin acar sozun deyerini elde edirik.
 luget1 = {'a': 1, 'b': 2, 'c': 3}
 yeni_luget1 = luget1.setdefault('c')
-print(    yeni_luget1   )
+print(    yeni_luget1   ) 
 
 
 
