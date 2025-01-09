@@ -2,7 +2,7 @@
 
 # append yeni elave et.
 
-metn = "lala and lolo"
+metn = "\n lala and lolo"
 
-with open('test.txt', "a") as sened:
+with open('example.txt', "a") as sened:
     sened.write(metn)

@@ -1,4 +1,4 @@
-# getlogin() bu metod emeliyyat sistemindeki istifade adini elde etmek ucundur.
+# getlogin() bu metod emeliyyat sistemindeki istifadeci adini elde etmek ucundur.
 
 
 import os

@@ -19,3 +19,27 @@ class Masin:
 
     def dayanmaq(self):
         print("Masin dayandi")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+

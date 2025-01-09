@@ -5,6 +5,6 @@
 
 my_set = {"alma", "armud", "nar"}
 
-my_set.discard("qarpiz")
+my_set.remove("alma2")
 
 print(my_set)

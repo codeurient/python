@@ -1,4 +1,4 @@
-# deyerek olaraq gonderilen list-in icindeki melumatlari for dongusu ile ekrana yazdiririq.
+# deyere olaraq gonderilen list-in icindeki melumatlari for dongusu ile ekrana yazdiririq.
 
 
 def meyveler(qida):

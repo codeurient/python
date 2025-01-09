@@ -11,7 +11,7 @@
 #! Kitabxana NumPy  - Rəqəmlər və mürəkkəb riyazi dusturlarla işləmək üçün nəzərdə tutulmuşdur. (Data analitikde istifade edilir)
 #! Kitabxana Pillow - Şəkillərlə işləmək üçün nəzərdə tutulmuşdur. Sekilleri temizlemek, rengini deyismek ve.s
 #! Kitabxana Faker  - Proqramlarin funksionallığını test etmek üçün. 
-#! Kitabxana Django - Proqramlarin funksionallığını test etmek üçün. 
+#! Kitabxana Django - Web sehiflerin yaradilmasinda istifade edilir. (Admin Panel) 
 
 
 # 4) paketleri idare etmek ucun istifade edilen sisteme ise pip deyilir.

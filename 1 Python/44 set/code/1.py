@@ -5,6 +5,6 @@
 # reqemleri asagidaki kimi duzsek bele output-da yeni neticeni ekrana yazdirdiqda
 # hemin deyerler oz yerini deyiserek ekrana yazdirilacaqdir.
 
+a = { 1, 'alma', 'armud', 'nar', 'alma', 5 }
 
-my_set = {7, 1, 9, 4, 5, 3, 10}
-print(my_set)
+print(a)

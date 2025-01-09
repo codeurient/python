@@ -6,6 +6,6 @@
 hava = {'Baki': 'qarli', "Qax": 'gunesli', "Seki": 'gunesli', "Oguz": 'buludlu'}
 
 # if şərti ilə sadece gunesli olan bolgelerin elde edilmesi.
-gunesli_hava = {acar: deyer for (acar, deyer) in hava.items() if deyer == 'gunesli'}
+gunesli_hava = {acar: deyer           for (acar, deyer) in hava.items()          if deyer == 'gunesli'}
 
 print(gunesli_hava)

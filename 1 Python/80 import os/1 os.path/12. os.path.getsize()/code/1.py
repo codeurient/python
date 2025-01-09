@@ -2,7 +2,7 @@
 
 import os
 
-faylin_yolu = '/Users/proj/domains/PYTHON/test.html'
+faylin_yolu = '/Users/proj/domains/PYTHON/hereket.html'
 
 fayl_haqqinda = os.path.getsize(faylin_yolu)
 

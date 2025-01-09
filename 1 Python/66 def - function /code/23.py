@@ -7,6 +7,6 @@ def numune(n):
 
 # Niye gore burda funksiyani variable-a verdikde yumru moterize yazmiriq? cunki yumru moterize qoyanda 
 # funksiya iwlemeye bawlayir ve xeta aliriq. 
-vurma = numune(22)
+vurma = numune
 
-print(    vurma(11)    )
+print(    vurma(22)    )

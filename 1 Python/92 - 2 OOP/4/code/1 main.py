@@ -7,6 +7,7 @@ class Heyvan:
     def yatmaq(self):
         print("Bu heyvan yatir")
 
+
 # Subclass-lar ucun unikal metodlar yarada ve onlari cagiraraq istifade ede bilerik
 class Dovsan(Heyvan):
     def qacmaq(self):

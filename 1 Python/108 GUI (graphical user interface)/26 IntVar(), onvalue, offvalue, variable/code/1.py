@@ -7,6 +7,10 @@ def goruntulemek():
     else:
         print("Imtina etdin")
 
+
+
+
+
 pencere = Tk()
 
 # 2) IntVar() tkinter modulunun klasidir. 'x' adlı variable-a verəcəyimiz dəyərin tam ədəd olması üçün istifade edirik.

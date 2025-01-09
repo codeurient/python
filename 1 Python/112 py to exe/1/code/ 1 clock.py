@@ -5,7 +5,7 @@
 # 1) pip install --upgrade pip
 # 2) pip install --upgrade pyinstaller
 
-# 1) Ana ekranda clock adinda bir qovluq yaradiriqi. Qovlugun adini 'clock' qoydum men.
+# 1) Ana ekranda clock adinda bir qovluq yaradiriq. Qovlugun adini 'clock' qoydum men.
 # 2) Qovlugun icine 'png' formatinda bir sekil elave etdim ve adini bele qoydum: clock.png
     #! Ancaq bize uzantisi .png yox .ico lazimdir. Buunun ucun bu sayta kecid ederek png formatini ico formatina konvert edirik: https://icoconvert.com/ 
 # Kodumuzun yerlesdiyi fayli da hemin qovlugun icine qoyuruq. Faylin adini men bele qoymusam: clock.py

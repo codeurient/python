@@ -17,7 +17,7 @@ class Kub(Duzbucaqli):
 
 #//! Yuxarida her 2 subclass-da tekrarlanan kodlar hansilardir ?
 # 1. self.en = en
-# 2. self.hundurluk = hundurluk
+# 2. self.uzunluq = uzunluq
 # Kodun tekrarlanmamasi ucun nece ede bilerik ?
         
 kvadrat = Kvadrat(3, 3)

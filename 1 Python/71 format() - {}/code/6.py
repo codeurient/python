@@ -11,4 +11,4 @@
 # Yeni, format() metodu spesifikatorlari, deyerleri ferqli formatlarda yazdirmaq ucun istifade edilir.
 
 
-print(   format(5232, "b")   )
+print(   format(5232, "o")   )

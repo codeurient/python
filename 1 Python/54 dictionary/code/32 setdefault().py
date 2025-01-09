@@ -23,4 +23,4 @@ print(    yeni_luget2   )
 # Eger bele bir acar soz ve deyer movcud deyildirse, onda setdefault() metodu, hem acar sozu yaradir hemde deyeri elave edir.
 luget3 = {'a': 1, 'b': 2}
 yeni_luget3 = luget3.setdefault('c', 5)
-print(    yeni_luget3   )
+print(    luget3   )

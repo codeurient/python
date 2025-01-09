@@ -32,3 +32,5 @@ sahin.ovlanmaq()
 # 'baliq' klasinin obyekti ana klasi olan "Yalvarmaq" ve "Yirtici" klaslarinin metodlarini gorur
 baliq.qacmaq()
 baliq.ovlanmaq()
+
+

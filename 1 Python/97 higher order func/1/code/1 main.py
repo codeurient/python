@@ -3,8 +3,13 @@
 def boyuk(metn):
     return metn.upper()
 
+
 def kicik(metn):
     return metn.lower()
+
+
+
+
 
 # 3cu funksiyamizin parametri diger funksiyalari qebul etmek ucundur.
 # Bu gonderilen funksiyalarin heresi bir is gorur ancaq onlarin gorduyu ferqli islerin

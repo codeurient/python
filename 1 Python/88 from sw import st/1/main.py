@@ -5,6 +5,8 @@
 # ederek istifade etmek istediyimiz funksiyalari cagiririq.
 
 
+
+
 from mesaj import salam, sagol
 
 salam()

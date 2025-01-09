@@ -16,6 +16,8 @@ masin1 = Masin()
 masin2 = Masin()
 masin3 = Masin()
 
+
+
 # 4) Funksiyani cagiraraq, obyekti arqument kimi gonderirik 1ci parametre, stringi ise 2ci parametre
 rengi_deyismek(masin1, "qirmizi")
 rengi_deyismek(masin2, "ag")

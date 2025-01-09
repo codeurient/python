@@ -1,4 +1,4 @@
-#  set kolleksiyasina yeni birden cox deyer elave etmek ucun update() metodundan istifade etmek olar
+#  set kolleksiyasina birden cox deyer elave etmek ucun update() metodundan istifade etmek olar
 
 
 my_set = {"alma", "armud", "nar"}

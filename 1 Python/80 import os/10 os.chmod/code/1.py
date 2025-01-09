@@ -10,7 +10,7 @@
 import os, stat
 
 try:
-    os.chmod('/Users/proj/domains/PYTHON/test.txt', stat.S_IWRITE)
+    os.chmod('/Users/proj/domains/PYTHON/main.py')
     print("Fayla muraciet etme huququ ugurla deyiwdirildi")
 
 except OSError as e:

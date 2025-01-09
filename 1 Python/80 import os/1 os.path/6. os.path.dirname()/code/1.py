@@ -1,4 +1,4 @@
-# dirname() - faylin adini iqnor ediv ve sadece qovlugun adini verir
+# dirname() - faylin adini iqnor edir ve sadece qovlugun adini verir
 
 import os
 

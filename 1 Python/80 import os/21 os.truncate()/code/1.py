@@ -5,8 +5,8 @@
 
 import os
 
-yol = '/Users/proj/domains/PYTHON/test.txt'
+yol = '/Users/proj/domains/PYTHON/hereket.html'
 
-olcu = 1000
 
-os.truncate(yol, olcu)
+
+os.truncate(yol, 1000)

@@ -36,5 +36,6 @@ try:
     print("Giris edildi...")
     server.sendmail(gonderen, qebuleden, mesaj)
     print("Mesaj gonderildi...")
+    
 except smtplib.SMTPAuthenticationError:
     print("daxil olmaq olmur")

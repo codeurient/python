@@ -11,11 +11,19 @@ pencere.title("Birinci GUI dersimiz")
 logo = PhotoImage(file=image_path)
 pencere.iconphoto(True, logo)
 
+
+
+
 # config() - bu metoddan pencerenin arxa fon rengini deyismek ucun istifade edilir.
 # pencere.config(background="#2596be")  - Belede yazmaq olar
 # pencere.config(background="red")      - Belede yazmaq olar
 #!  https://imagecolorpicker.com/en
 pencere.config(background="#2596be")
+
+
+
+
+
 
 
 pencere.mainloop()

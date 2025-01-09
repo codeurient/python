@@ -1,5 +1,5 @@
 # dictionary - bu sozun menasi luget demekdir. list, tuple, set kimi melumatlari ehtiva etmek ucun
-# istifade edilir. Yeni, melumatlari saxlamaq ucun istifade edilir.
+# istifade edilir. Yəni, melumatlari saxlamaq ucun istifade edilir.
 
 # list, tuple ve set-den ferqi nedir ?
 
@@ -15,6 +15,11 @@
 melumatlar = {
   "istehsalatci": "Renault",
   "model": "Clio",
-  "il": 2009
+  "il": 2009,
 }
+
 print(melumatlar)
+
+
+
+

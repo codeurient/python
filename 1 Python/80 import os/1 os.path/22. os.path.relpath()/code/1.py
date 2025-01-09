@@ -18,3 +18,4 @@ cari_yol = 'Users/proj/domains/PYTHON/test.txt'
 
 fayl_haqqinda = os.path.relpath(cari_yol, esas_yol)
 print(  fayl_haqqinda  )
+

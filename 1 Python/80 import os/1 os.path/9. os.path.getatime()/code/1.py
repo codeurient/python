@@ -13,7 +13,7 @@
 import os
 import time
 
-faylin_yolu = '/Users/proj/domains/PYTHON/test.txt'
+faylin_yolu = '/Users/proj/domains/PYTHON/yeniFayl.txt'
 
 # Получение времени последнего доступа к файлу
 giris_vaxti = os.path.getatime(faylin_yolu)
@@ -21,5 +21,3 @@ giris_vaxti = os.path.getatime(faylin_yolu)
 saat_formatinda_elde_et = time.ctime(giris_vaxti) 
 
 print(  saat_formatinda_elde_et  )
-
-

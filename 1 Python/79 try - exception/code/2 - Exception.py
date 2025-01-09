@@ -11,5 +11,5 @@ try:
     bolunen  = int(input("Bir eded daxil edin"))
     bolen = int(input("Bir eded daxil edin"))
     netice = bolunen / bolen
-except Exception:
+except ZeroDivisionError:
     print("Bir weyler yanliwdir")

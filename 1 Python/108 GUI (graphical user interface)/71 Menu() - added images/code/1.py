@@ -16,9 +16,9 @@ def cixisEt():
 
 pencere = Tk()
 
-acmaqSekli = PhotoImage(file="lessons/108 GUI (graphical user interface)/71 Menu() - added images/code/acmaq.png")
-yaddaSaxlaSekli = PhotoImage(file="lessons/108 GUI (graphical user interface)/71 Menu() - added images/code/yaddasaxla.png")
-cixisEtSekli = PhotoImage(file="lessons/108 GUI (graphical user interface)/71 Menu() - added images/code/cixis.png")
+acmaqSekli = PhotoImage(file="1 Python/108 GUI (graphical user interface)/71 Menu() - added images/code/acmaq.png")
+yaddaSaxlaSekli = PhotoImage(file="1 Python/108 GUI (graphical user interface)/71 Menu() - added images/code/cixis.png")
+cixisEtSekli = PhotoImage(file="1 Python/108 GUI (graphical user interface)/71 Menu() - added images/code/yaddasaxla.png")
 
 menuBar = Menu(pencere)
 pencere.config(menu=menuBar)

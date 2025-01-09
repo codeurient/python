@@ -1,4 +1,3 @@
-
 def salam():
     print("Sabahin xeyr olsun")
 

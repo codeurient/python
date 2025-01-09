@@ -16,3 +16,4 @@ for i in range(1, 11):
     # 9 * 9
     # 10 * 10
 print(kvadrat)
+

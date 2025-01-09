@@ -14,3 +14,7 @@ class Masin:
 
     def dayanmaq(self):
         print(f"Masin {self.model} dayandi")
+
+    
+
+

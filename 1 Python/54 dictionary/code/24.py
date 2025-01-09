@@ -6,6 +6,6 @@ melumatlar = {
   "il": 2009
 }
 
-melumatlar.update(  {"il" : 2010}  )
+melumatlar.update(  {"il" : 2010 } )
 
 print(melumatlar)

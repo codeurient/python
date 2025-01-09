@@ -6,7 +6,7 @@
 
 kisiler = dict(
 
-      murad = {
+    murad = {
 
         "Adi": "Murad",
         "Soyadi": "Abbasov",

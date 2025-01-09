@@ -11,4 +11,4 @@ melumatlar = {
 }
 
 for x, y in melumatlar.items():
-  print(x, y)
+  print(x,  y)

@@ -6,7 +6,7 @@
 # neticesi eynidir. Men bacardigim qeder her formani gostermeye calisiram ki, basqa vaxti 
 # qarwiniza cixsa cawmiyasiz.
 
-ad = "Fateh"
+ad = "Fateh"     
 
 print("Salam menim adim {:10}-dir".format(ad))          # bele de yazmaq olar
 print("Salam menim adim {0:10}-dir".format(ad))         # bele de yazmaq olar

@@ -4,3 +4,4 @@ def salam(ad, soyad, yaw):
     print("Xow gunler arzu edirem")
 
 salam("Jony", "Bravo", 14)
+salam("Bob", "Marly", 18)

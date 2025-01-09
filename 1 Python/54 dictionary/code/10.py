@@ -8,6 +8,6 @@ melumatlar = {
   "il": 2009
 }
 
-melumatlar['rengi'] = "qirmizi"
+melumatlar['reng'] = "qirmizi"
 
 print(melumatlar)

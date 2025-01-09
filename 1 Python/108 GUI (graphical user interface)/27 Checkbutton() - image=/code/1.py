@@ -13,7 +13,7 @@ pencere = Tk()
 x = BooleanVar()
 
 # image= parametrinden istifade ederek xana-nin yanina sekil elave etmekde mumkundur. 
-sekil = PhotoImage(file='lessons/108 GUI (graphical user interface)/27 Checkbutton() - image=/code/1.png')
+sekil = PhotoImage(file='1 Python/108 GUI (graphical user interface)/27 Checkbutton() - image=/code/1.png')
 
 xana = Checkbutton( pencere, 
                     text="Men bununla raziyam", 

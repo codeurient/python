@@ -5,7 +5,7 @@ import os
 
 
 yol1 = os.open('/Users/proj/domains/PYTHON/test.txt', os.O_RDONLY)
-yol2 = os.open('/Users/proj/domains/PYTHON/test.txt',    os.O_RDONLY)
+yol2 = os.open('/Users/proj/domains/PYTHON/test.txt',    os.O_WRONLY)
 
 
 if os.path.sameopenfile(yol1, yol2):

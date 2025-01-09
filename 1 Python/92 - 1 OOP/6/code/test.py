@@ -8,3 +8,6 @@ print(masin1.hazirlamaq)
 print(masin1.model)
 print(masin1.ili)
 print(masin1.rengi)
+
+masin1.surmek()
+masin1.dayanmaq()

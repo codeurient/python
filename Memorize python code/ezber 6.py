@@ -6,6 +6,7 @@ siyahi = [
     "Tam eded daxil edin: ",                    ",  Bu hesablamanin cavabi beledir: ",      "Telebenin adi: ",
     "Sen bizim qrupun telebesi deyilsen",       " ismi",                                    "Yasar",                    "Harun",        "Amil"
 ]
+
 siyahi.remove("remove metodu list-in deyerini silir")
 siyahi.pop(9)
 siyahi.append("Harun")

@@ -4,6 +4,6 @@ def salam():
 # Eger funksiyanin onunde yumru moterize yazmadan print() metodu ile 
 # ekrana yazdirmaga caliwsaq onda hemin funksiyanin komputerin yaddasinda 
 # hansi yerde (adresde) oldugunu oyrene bilerik. 
-print(salam)
+print(      salam      )
 
 #! Qayidan deyer hexadecimal deyerdir. 

@@ -2,7 +2,8 @@
 
 eded = 50
 
-print("Boyukdur") if eded >= 10 else print('kicikdir')
+print("Boyukdur")            if eded >= 10                  else print('kicikdir')
 
 # Basda yazilan print("Boyukdur") asilidir if -den ve eger eded boyuk olsa hemin print() metodu ekrana Boyukdur yazdiracaq
 # ekse halda else isleyecek.
+

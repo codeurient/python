@@ -3,6 +3,6 @@
 
 my_set = {"alma", "armud", "nar"}
 
-my_set.remove(ə)
+my_set.remove("nar")
 
 print(my_set)

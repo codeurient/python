@@ -6,7 +6,7 @@
 # Biz hardan bilirik ki, her komputerin istifadeci qovlugunda olan alt qovlugun adi nedir ? Bilmirik.
 
 # Bunun ucun proqram dilinde bele variable-llar movcuddur:
-# $HOME, ${USER}, ${HOME}, ${USER} ve.s 
+# $HOME, ${USER}, ${HOME}, $USER ve.s 
 
 # Windows emeliiat sisteminde ise bu cur yazila biler:
 # %HOMEPATH%, $USERNAME, ${TEMP} ve.s

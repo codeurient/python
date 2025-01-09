@@ -2,7 +2,7 @@ class Ordek:
     def gezmek(self):
         print("Bu ordek gezir")
     def danismaq(self):
-            print("Bu ordek danisir")
+        print("Bu ordek danisir")
 
 class Toyuq:
     def gezmek(self):
@@ -26,4 +26,4 @@ toyuq = Toyuq()
 adam = Adam()
 
 #! Burda istesek "ordek"-de yaza bilerik "toyuq" da yaza bilerik. Kod yenede isleyecekdir. 
-adam.tutmaq(ordek)
+adam.tutmaq(toyuq)

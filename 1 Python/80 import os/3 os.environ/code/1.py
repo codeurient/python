@@ -8,6 +8,9 @@
 # Hemin emeliyyat sisteminin deyiskenlerini ve deyerlerini elde etmek ucun ise 
 # environ atributundan istifade edilir.
 
+
+
+
 import os
 
 muhitDeyiskenleri = os.environ

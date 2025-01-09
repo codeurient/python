@@ -40,9 +40,6 @@ def xal_goster(dogru_cavablar, texminlerimiz):
     derece = int((dogru_cavablar/len(sual)) * 100) 
     print("Dogru texmin derecemiz: " + str(derece) + "%")
 
-#//! 1 - while konstruksiyasi default olaraq True oldugu ucun yeniden_oyna() funksiyasi çagrilir ve input() sahesine deyer girmeyimiz
-# istenilir. Eger if sorgusunda muqayise etdiyimiz deyer dogru olarsa, onda True qayidir ve while konstruksiyasi yeni_oyun() funksiyasini
-# yeniden cagirir. Eger False olarsa onda while konstruksiyasi işini dayandirir ve ekrana print() metodu sagol yazdirir. 
 def yeniden_oyna():
     sorgu = input("Yeniden oynamaq isteyirsen mi? (Beli / Xeyr) : ").upper()
     if sorgu == "BELI":
@@ -51,16 +48,13 @@ def yeniden_oyna():
         return False
 
 sual = {
-    "Python dilini kim yaradib? " : "A",
-    "Python necenci ile yaranib? " : "B",
-    "Python adi, hansi komedi klubun adindan ilhamlanmisdir? " : "C",
-    "Dunya yuvarlaqdir mi? " : "A",
+    "Python dilini kim yaradib? " : "A",     "Python necenci ile yaranib? " : "B",     "Python adi, hansi komedi klubun adindan ilhamlanmisdir? " : "C",     "Dunya yuvarlaqdir mi? " : "A",
 }
 cavablar = [
-    ["A. Guido van Rossum", "B. Elon Musk", "C. Bill Gates", "D. Mark Zuckerburg"],
-    ["A. 1989", "B. 1991", "C. 2000", "D. 2016"],
-    ["A. Lonely Island", "B. Smosh", "C. Monty Python", "D. SNL"],
-    ["A. True", "B. False", "C. sometimes", "D. What's Earth?"]
+    ["A. Guido van Rossum",     "B. Elon Musk",        "C. Bill Gates",         "D. Mark Zuckerburg"],
+    ["A. 1989",                 "B. 1991",             "C. 2000",               "D. 2016"],
+    ["A. Lonely Island",        "B. Smosh",            "C. Monty Python",       "D. SNL"],
+    ["A. True",                 "B. False",            "C. sometimes",          "D. What's Earth?"]
 ]
 yeni_oyun()
 
@@ -68,3 +62,6 @@ while yeniden_oyna():
     yeni_oyun()
 
 print("Sagol!!!!!!!")
+
+
+

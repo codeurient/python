@@ -6,6 +6,6 @@
 
 import os
 
-muhitDeyiskenleri = os.environ.get('LANG')
+muhitDeyiskenleri = os.environ.get('__CFBundleIdentifier')
 
 print(muhitDeyiskenleri)

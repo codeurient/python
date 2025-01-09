@@ -13,7 +13,8 @@
 
 import os
 
-path = "/Users/codeurient/Desktop/baki/hereke.html"
+path = "/Users/proj/domains/PYTHON/hereket.html"
+
 
 # exists() - bu metod her hansisa bir faylin yaxud qovlugun var olub olmadigini yoxlayir.
 

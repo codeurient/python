@@ -9,4 +9,3 @@ def cari_funksiya():
     print(ad)
 cari_funksiya()
 
-print(ad)

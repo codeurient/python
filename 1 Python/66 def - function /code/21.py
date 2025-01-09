@@ -7,7 +7,7 @@
 # faktoriyel(3-1) = 2
 # faktoriyel(2-1) = 1
 
-# Ve here defe yeni deyer emele gelir ve bu yer yeni deyer n parametrine yeniden gonderilir ve 
+# Ve here defe yeni deyer emele gelir ve bu yeni deyer n parametrine yeniden gonderilir ve 
 # if sorgusunun icinde 1 == 1 olduqda funksiya return edir n parametini. Bu n parametri en sonunda 1 ededidir.
 
 # Ancaq 1 olana qeder 4 == 1 false verir ve else kodu iwleyir, 

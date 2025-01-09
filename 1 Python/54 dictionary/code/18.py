@@ -10,6 +10,7 @@ melumatlar = {
 yeniMelumatlar = dict(melumatlar)
 
 yeniMelumatlar['il'] = 2010
+melumatlar['il'] = 2011
 
 print(melumatlar)
 print(yeniMelumatlar)

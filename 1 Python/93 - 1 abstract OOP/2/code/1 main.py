@@ -12,6 +12,8 @@ class Masin(NeqliyyatVasitesi):
 class Motosiklet(NeqliyyatVasitesi):
     def getmek(self):
         print("Sen motosiklet surursen")
+
+        
 #! sildik 
 masin = Masin()
 motosiklet = Motosiklet()

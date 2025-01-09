@@ -8,4 +8,4 @@
 
 import shutil
 
-shutil.copyfile('test.txt', 'copy.txt')
+shutil.copyfile('example.txt', 'copy.txt')

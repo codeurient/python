@@ -4,9 +4,9 @@ yemekler = ['pizza', 'hotdog', 'doner']
 
 pencere = Tk()
 
-pizza = PhotoImage(file="lessons/108 GUI (graphical user interface)/31 Radiobutton() - image=/code/pizza.png")
-doner = PhotoImage(file="lessons/108 GUI (graphical user interface)/31 Radiobutton() - image=/code/doner.png")
-hotdog = PhotoImage(file="lessons/108 GUI (graphical user interface)/31 Radiobutton() - image=/code/hotdog.png")
+pizza = PhotoImage(file="1 Python/108 GUI (graphical user interface)/31 Radiobutton() - image=/code/pizza.png")
+doner = PhotoImage(file="1 Python/108 GUI (graphical user interface)/31 Radiobutton() - image=/code/doner.png")
+hotdog = PhotoImage(file="1 Python/108 GUI (graphical user interface)/31 Radiobutton() - image=/code/hotdog.png")
 
 yemekSekilleri = [pizza, doner, hotdog]
 
@@ -27,6 +27,7 @@ for index in range(len(yemekler)):
                                 pady=25,
                                 indicatoron=0,
                                 width=275
+                                
                             )
 
     yumruDuyme.pack(anchor=W)

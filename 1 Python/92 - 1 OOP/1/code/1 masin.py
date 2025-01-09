@@ -5,3 +5,10 @@
 
 class Masin:
     pass
+
+
+
+
+
+
+

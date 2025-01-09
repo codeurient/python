@@ -20,3 +20,5 @@ logo = PhotoImage(file=image_path)
 pencere.iconphoto(True, logo)
 
 pencere.mainloop()
+
+

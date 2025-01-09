@@ -1,4 +1,4 @@
-# chdir - change directory sozunun qisaldilmasidir. Yeni, qovlugu deyismek.
+# chdir - change directory sozunun qisaldilmasidir. Yəni, qovlugu deyismek.
 
 # Bu metod emeliyyat sisteminde hal hazirda oldugumuz qovlugu bawqa qovluga deyiwmek ucun
 # istifade edilir. 

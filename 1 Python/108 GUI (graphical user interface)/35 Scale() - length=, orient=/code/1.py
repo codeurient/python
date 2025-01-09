@@ -3,7 +3,7 @@ from tkinter import *
 pencere = Tk()
 
 def gonder():
-    print("Havanin temperaturu: " + str( skala.get() ) + " derecedir.")
+    print(f"Havanin temperaturu: {skala.get()}  derecedir.")
 
 # 2) length= parametri ile şkalanın uzunluğunu təyin edirik.
 # 3) orient= parametri ile şkalanı düzünə yaxud uzununa formalaşdırmaq mümkündür

@@ -16,4 +16,4 @@ pencere = Tk()
 duyme = Button(text='Aç', command=achmaq)
 duyme.pack()
 
-pencere.mainloop() 
+pencere.mainloop()

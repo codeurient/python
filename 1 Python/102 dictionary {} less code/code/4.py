@@ -14,6 +14,6 @@ def havani_yoxla(deyer):
     else:
         return "SOYUQ"  
 
-seher_aciqlama = {acar: havani_yoxla(deyer) for (acar, deyer) in seherler.items()}
+seher_aciqlama = {acar: havani_yoxla(deyer)                      for (acar, deyer) in seherler.items()}
 
 print(seher_aciqlama)

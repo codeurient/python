@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 def klikle():
     # Sonsuz dongu yaradaraq hemin qutunu daima aciq saxlaya bilerik. 
-    while(True):
+    while True:
         messagebox.showwarning(title='Tehluke', message='Virus var')
 
 pencere = Tk()

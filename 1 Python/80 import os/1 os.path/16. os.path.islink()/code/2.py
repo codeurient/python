@@ -5,11 +5,11 @@
 
 import os
 
-faylin_yolu = '/Users/proj/domains/PYTHON/test.txt'
+faylin_yolu = '/Users/proj/domains/PYTHON/abc.txt'
 
-os.symlink(faylin_yolu, 'yeniFayl.txt')
+os.symlink(faylin_yolu, 'yeniABC.txt')
 
-yeni_simvolik_link = '/Users/proj/domains/PYTHON/yeniFayl.txt'
+yeni_simvolik_link = '/Users/proj/domains/PYTHON/yeniABC.txt'
 
 fayl_haqqinda = os.path.islink(yeni_simvolik_link)
 

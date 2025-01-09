@@ -3,7 +3,7 @@ from tkinter import filedialog
 
 def yaddasaYaz():
     fayl = filedialog.asksaveasfile(
-                                    initialdir="lessons/108 GUI (graphical user interface)/65 filedialog - asksaveasfile()",
+                                    initialdir="1 Python/108 GUI (graphical user interface)/67 filedialog - asksaveasfile(), input()/code/numune.txt",
                                     defaultextension='.txt', 
                                     filetypes=[
                                         ("Text fayli",    ".txt"),
@@ -24,7 +24,5 @@ pencere = Tk()
 duyme = Button(text='Yaddasa yaz', command=yaddasaYaz)
 duyme.pack()
 
-metn = Text(pencere)
-metn.pack()
 
 pencere.mainloop() 

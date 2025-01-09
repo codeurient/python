@@ -1,6 +1,6 @@
 # map() - bu funksiya 2 parametr qebul edir: map(function, iterable)
 # 1ci parametri funksiyadir.
-# 2ci parametri ise iterabe - yeni tekrarlana bilen obyektler.
+# 2ci parametri ise iterable - yeni tekrarlana bilen obyektler.
 
 # Tekrarlana bilen obyektlere aiddir neler? 
 # 1. list   -  [1, 2, 3]

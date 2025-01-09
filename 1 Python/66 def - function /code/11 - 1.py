@@ -10,3 +10,4 @@ def seninAdinNedir(**telebe):
     print( "Meshur sair " + telebe["ad"] + " " + telebe["soyad"] )
      
 seninAdinNedir(ad = "Semed", soyad = "Vurgun")
+

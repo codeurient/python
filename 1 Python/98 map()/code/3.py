@@ -5,3 +5,6 @@ ededlerin_kvadratlari = map(lambda x: x ** 2, ededler)
 # ededler list-indeki deyerler bir-bir lamda funksiyanin x parametrine oturulur
 
 print(   list(ededlerin_kvadratlari)   )
+
+
+

@@ -15,7 +15,7 @@ def yeni_oyun():
         # yoxlamaq lazimdir. Bu verilen cavabin dogrulugunu asagida yaratmis oldugumuz funksiya
         # ile edeceyik. suali_yoxla() funksiyasinin islemesi ucun ilk once yeni_oyun() funksiyasi
         # cagrilmalidir. 
-        sualin_nomresi()
+        suali_yoxla()
         sualin_nomresi += 1 
 
 def suali_yoxla():

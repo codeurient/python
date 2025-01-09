@@ -4,6 +4,6 @@ def seninAdinNedir(**telebe):
   
     print( "Gorkemli sairlerimiz:" )
     for acarSoz, deyer in telebe.items(): 
-        print(deyer)  
+        print(acarSoz, ":", deyer)  
      
 seninAdinNedir(sair1 = "Semed Vurgun", sair2 = "Bextiyar Vahabzade", sair3 = "Nizami Gencevi")

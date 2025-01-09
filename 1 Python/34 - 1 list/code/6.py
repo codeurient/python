@@ -7,5 +7,5 @@
 yemekler = ["pizza", "pendir", "dolma", "merci"]
 
 
-[print(i) for i in yemekler]
+[   print(i)        for i in yemekler   ]
 

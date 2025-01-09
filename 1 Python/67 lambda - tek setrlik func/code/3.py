@@ -16,3 +16,5 @@ def numune(n):
 vurma = numune(2)
 
 print(    vurma(11)    )
+
+

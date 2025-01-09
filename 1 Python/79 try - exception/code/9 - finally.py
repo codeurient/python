@@ -18,4 +18,4 @@ except Exception as e:
 else:
     print(netice)
 finally: 
-    print("Bura her zaman iwleyecek hissedir.") 
+    print("Bura her zaman iwleyecek hissedir.")

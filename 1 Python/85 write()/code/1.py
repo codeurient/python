@@ -8,5 +8,5 @@
 
 metn = "lorem ipsum dolor \n sit amet, sed \n diam nonum"
 
-with open('test.txt', "w") as sened:
+with open('example.txt', "w") as sened:
     sened.write(metn)

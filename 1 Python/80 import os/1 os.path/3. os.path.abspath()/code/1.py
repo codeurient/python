@@ -1,6 +1,6 @@
 # abspath() - bu metod ana qovlugun yolunu bize verir. 
 
-# Mesel ucun main.py fayli yerlesir PYTHON qovlugunun icinde ve hemin u qovlugun icinde
+# Mesel ucun main.py fayli yerlesir PYTHON qovlugunun icinde ve hemin bu qovlugun icinde
 # de test.txt fayli var. 
 
 # abspath() metodu hemin ana qovlugun adini bize verir: /Users/proj/domains/PYTHON/

@@ -2,5 +2,5 @@
 # istifade edirik.
 
 
-with open('test.txt') as sened:
+with open('example.txt') as sened:
     print(sened.read())

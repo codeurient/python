@@ -2,6 +2,9 @@
 
 # Bu ders path daxili modulunun metodlarini inceliyesiyik
 
+
+
+
 # os.path
 # os.path.abspath(path)                 - ana qovlugun yolunu bize verir. 
 # os.path.basename(path)                - qovluq adini iqnor edir ve faylin ozunun adini verir.

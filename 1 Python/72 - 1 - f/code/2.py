@@ -7,3 +7,6 @@ def numune():
 ekranaYazdir = f'test edirik: {numune()}'
 
 print(ekranaYazdir)
+
+
+

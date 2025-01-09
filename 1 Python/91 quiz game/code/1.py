@@ -17,7 +17,7 @@ def yeniden_oyna():
 # print( sual["Dunya yuvarlaqdir mi? "] )
 sual = {
     "Python dilini kim yaradib? " : "A",
-    "Python necenci ile yaranib? " : "B",
+    "Python necenci ilde yaranib? " : "B",
     "Python adi, hansi komedi klubun adindan ilhamlanmisdir? " : "C",
     "Dunya yuvarlaqdir mi? " : "A",
 }

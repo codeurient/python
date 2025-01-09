@@ -15,5 +15,16 @@ print(type(telebe_melumatlari))
 
 # JSON formatina cevrilen melumatlarin tipi STRING olur. 
 melumat = json.dumps(telebe_melumatlari)
-print(type(melumat))
+print(melumat)
+
+
+
+
+
+
+
+
+
+
+
 

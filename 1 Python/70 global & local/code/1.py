@@ -17,3 +17,4 @@ def cari_funksiya():
 cari_funksiya()
 
 print(ad)
+

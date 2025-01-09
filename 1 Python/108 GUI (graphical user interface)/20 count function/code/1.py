@@ -10,7 +10,7 @@ def basmaq():
 
 pencere = Tk()
 
-sekil = PhotoImage(file='lessons/108 GUI (graphical user interface)/20 count function/code/1.png')
+sekil = PhotoImage(file='1 Python/108 GUI (graphical user interface)/20 count function/code/1.png')
 
 etiket = Button(
         pencere, 

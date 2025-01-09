@@ -4,5 +4,7 @@
 
 yemek = ["pizza", "pendir", "dolma", "merci"]
 
+
+
 for deyerler in yemek:
     print(deyerler)

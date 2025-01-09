@@ -40,3 +40,12 @@ etiket.bind("<B1-Motion>", surusdurmenin_hereketi)
 etiket2.bind("<Button-1>",  surusdurmenin_baslangici)
 etiket2.bind("<B1-Motion>", surusdurmenin_hereketi)
 pencere.mainloop()  
+
+
+
+
+
+
+
+
+

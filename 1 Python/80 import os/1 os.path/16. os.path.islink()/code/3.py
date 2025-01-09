@@ -8,7 +8,7 @@ import os
 
 from pathlib import Path
 
-faylin_yolu = Path('/Users/proj/domains/PYTHON/test.html')
+
 
 
 yeni_simvolik_link = Path('/Users/proj/domains/PYTHON/yeniFayl.txt')
@@ -16,3 +16,4 @@ yeni_simvolik_link.unlink()
 
 fayl_haqqinda = os.path.islink(yeni_simvolik_link)
 print(  fayl_haqqinda  )
+

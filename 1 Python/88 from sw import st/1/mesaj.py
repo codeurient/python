@@ -3,3 +3,7 @@ def salam():
 
 def sagol():
     print("Gecen xeye qalsin")
+
+
+def necesen():
+    pass

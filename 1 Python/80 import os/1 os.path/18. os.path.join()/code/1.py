@@ -1,4 +1,4 @@
-# os.path.join() - bu metod ile join() metodunu sehf salmayarsiniz. Cunki 2 ferqli metoddur.hasattr
+# os.path.join() - bu metod ile join() metodunu sehf salmayarsiniz. Cunki 2 ferqli metoddur
 
 # os.path.join() - bu metod string tipinde yazilan deyerleri birlewdirerek fayl yaxud qovluq
 # yolu yaradir.

@@ -3,4 +3,4 @@
 
 import shutil
 
-shutil.copyfile('test.txt', 'numune/copy.txt')
+shutil.copyfile('example.txt', 'numune/copy.txt')
