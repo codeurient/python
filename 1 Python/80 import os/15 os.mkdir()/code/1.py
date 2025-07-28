@@ -4,5 +4,5 @@
 
 import os
 
-yol = 'numune/yeniQovluq'
+yol = 'numune'
 os.mkdir(yol)

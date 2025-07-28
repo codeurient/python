@@ -11,7 +11,7 @@ qutu = { 'Month' : [ 'January', 'Feburary', 'March', 'April' ]}
 
 # Kvadrat moterize ile [] 'qutu' adli list-e muraciet edirik. Indekslerin vasitesi ile ise lazimli
 # deyeri cagirirq. Araliqda olan deyerleri elde etmek ucun Indexing[] qaydasindan istifade edirik.
-print(   qutu[0]   )
+print(   qutu['Month'][0]   )
 
 # 0-dan 3-e qeder olan deyerleri elde edirik. 3 daxil deyil.
-print(   qutu[0:3]   )
+print(   qutu['Month'][0:3]   )

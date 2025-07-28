@@ -2,7 +2,7 @@
 
 
 # Bu komandani yazaraq cedveli goruntulemek mumkundur
-# Istersek terminalda bele bunu ede bilerik. Bunun ucun ilk once:
+# Istsek terminalda bele bunu ede bilerik. Bunun ucun ilk once:
 
 # 1. mysql -u root -p
 # 2. parolu daxil et

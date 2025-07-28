@@ -3,7 +3,7 @@
 # ada gore, dereceye gore, yawa gore siralama.
 
 telebeler = [
-    ("Cavidan", "F", 60),
+    ("Cavidan", "F", 60), 
     ("Anar", "A", 33),
     ("Seymur", "D", 36),
     ("Huseyn", "B", 20),

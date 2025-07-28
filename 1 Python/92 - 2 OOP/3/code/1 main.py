@@ -9,7 +9,7 @@ class Dovsan():
     def yemek(self):
         print("Bu heyvan yemek yeyir")
 
-    def dinlenmek(self):
+    def yatmaq(self):
         print("Bu heyvan yatir")
 
 class Baliq():
@@ -18,7 +18,7 @@ class Baliq():
     def yemek(self):
         print("Bu heyvan yemek yeyir")
 
-    def dinlenmek(self):
+    def yatmaq(self):
         print("Bu heyvan yatir")
 
 class Sahin():
@@ -27,7 +27,7 @@ class Sahin():
     def yemek(self):
         print("Bu heyvan yemek yeyir")
 
-    def dinlenmek(self):
+    def yatmaq(self):
         print("Bu heyvan yatir")
 
 dovsan = Dovsan()

@@ -11,6 +11,8 @@ def kicik(metn):
 
 
 
+
+
 # 3cu funksiyamizin parametri diger funksiyalari qebul etmek ucundur.
 # Bu gonderilen funksiyalarin heresi bir is gorur ancaq onlarin gorduyu ferqli islerin
 # neticesi burda gorduyumuz 3cu funksiya ile ekrana yazdirilir.

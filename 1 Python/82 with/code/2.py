@@ -3,4 +3,4 @@
 
 
 with open('example.txt') as sened:
-    print(sened.read())
+    print( sened.read()  )

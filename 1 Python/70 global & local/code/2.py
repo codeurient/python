@@ -7,5 +7,6 @@ ad = "Ali" # GLOBAL variable
 def cari_funksiya():
     global ad # GLOBAL variable
     print(ad)
+    
 cari_funksiya()
 

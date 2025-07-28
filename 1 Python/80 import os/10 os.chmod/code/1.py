@@ -9,9 +9,12 @@
 
 import os, stat
 
+file_path = '/Users/proj/domains/PYTHON/main.py'
+
 try:
-    os.chmod('/Users/proj/domains/PYTHON/main.py')
-    print("Fayla muraciet etme huququ ugurla deyiwdirildi")
+    os.chmod(file_path, stat.S_IREAD | stat.S_IWRITE)  # oxuma və yazma icazəsi
+    print("Fayla oxuma və yazma hüquqları uğurla verildi")
 
 except OSError as e:
-    print(f"Muraciet etme huququnu deyisme xetasi: {e}")
+    print(f"Oxuma/yazma hüququnu dəyişmə xətası: {e}")
+

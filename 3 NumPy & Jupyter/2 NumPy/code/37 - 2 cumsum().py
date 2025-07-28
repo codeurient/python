@@ -1,4 +1,4 @@
-# cumprod() array elementlərinin məcmu hasilini hesablamaq üçün istifadə olunur.
+# cumsum() array elementlərinin məcmu cəmini hesablamaq üçün istifadə olunur.
 
 import numpy as np
 

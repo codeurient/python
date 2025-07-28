@@ -6,8 +6,7 @@
 
 # def acar sozunun onunde hemin funksiyanin adi yazilir. Istediyiniz adi yaza bilersiz.
 
-def burdaFunksiyaninAdiYazilir():
-  
+def buradaFunksiyaninAdiYazilir():
     print("Salam necesen")
 
-burdaFunksiyaninAdiYazilir()
+buradaFunksiyaninAdiYazilir()

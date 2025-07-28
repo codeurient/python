@@ -9,7 +9,7 @@ print('***************************************************************')
 
 
 # df.groupby("Payment Mode") - metodu ile "Payment Mode" sutununundaki elementleri qruplasdiririq.
-# ["Amount"] - sutunu onu bildiririk, qruplasan informasiya ucun 'Amount' yeni meblegi esas gotur ve sum() meto ile cemle.
+# ["Amount"] - sutunu onu bildiririk, qruplasan informasiya ucun 'Amount' yəni meblegi esas gotur ve sum() metodu ile cemle.
 qruplasdirilmis_data = df.groupby("Payment Mode")["Amount"].sum()
 print(qruplasdirilmis_data)
 

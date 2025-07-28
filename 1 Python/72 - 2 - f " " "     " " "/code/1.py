@@ -7,3 +7,4 @@ mesaj = f"""
     yaşamaq, yüz il qoyun 
     olaraq yaşamaqdan daha yaxsidir.
 """
+

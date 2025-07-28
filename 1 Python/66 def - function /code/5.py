@@ -5,7 +5,7 @@
 
 def burdaFunksiyaninAdiYazilir(say1, say2):
   
-    print( say1 + say2)
+    print( say1 + say2 )
 
 burdaFunksiyaninAdiYazilir(5, 10)   # 15
 burdaFunksiyaninAdiYazilir(7, 4)    # 11

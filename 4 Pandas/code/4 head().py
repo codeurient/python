@@ -11,4 +11,4 @@ import pandas as pd
 
 melumatlar = pd.read_excel('Datasets-main/ESD.xlsx')
 
-print(melumatlar.head())
+print(melumatlar.head(5))

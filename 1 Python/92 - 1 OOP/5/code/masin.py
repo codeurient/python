@@ -10,4 +10,5 @@ class Masin:
         print("Masin surulur")
 
     def dayanmaq(self):
-        print("Masin dayandi")
+        return "Masin dayandi"
+

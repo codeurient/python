@@ -8,7 +8,7 @@ pencere.title("Birinci GUI dersimiz")
 
 
 # PhotoImage(), tkinter modulunun klasidir. Sekilleri fayllarin icinden yuklemek ucun istifade edilir.
-logo = PhotoImage(file="1 Python/108 GUI (graphical user interface)/5 PhotoImage() & iconphoto()/1/code/logo.png")
+logo = PhotoImage(file="/Users/proj/domains/PYTHON/1 Python/108 GUI (graphical user interface)/5 PhotoImage() & iconphoto()/1/code/logo.png")
 
 # iconphoto(), tkintermodulunda ki, Tk klasinin metodudur.
 # 2 atribut qebul edir.

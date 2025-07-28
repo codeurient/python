@@ -9,7 +9,7 @@
 #?                        Dörd nüvəli = quad-core (4)
 #?                        Altı nüvəli = hexa-core (6)
 #?                        Sekkiz nüvəli = octa-core (8) ve.s
-#?                        CORE-ler PROCESSOR-larin beynidir ve PROCESS-ler bu core-ler vasitesi ile işləyir. 
+#?                        aPROCESS-ler bu core-ler vasitesi ile işləyir. 
 #?                        
 #?                        Her CORE 1 PROCESS icra edə bilir.
 #?                        CORE-lerin çox olmasi, eyni vaxtda 1-den cox ferqli ve yaxud eyni PROCESS-i icra etmeye imkan yaradir. 

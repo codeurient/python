@@ -16,3 +16,6 @@ tekSetrlikFunksiya = lambda a : a + 10
 # icinde a parametrini cagiririq ve bir toplama emeliyyati icra edirik.
 
 print(     tekSetrlikFunksiya(5)     )
+
+
+

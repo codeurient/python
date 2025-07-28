@@ -7,4 +7,4 @@
 
 deyer = 'salam dunya, salam Python, salam sinif'
 
-print(   deyer.index('salam', 5, 27)   )  # 13
+print(   deyer.index('dunya', 3, 27)   )  # 13

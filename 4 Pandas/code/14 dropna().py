@@ -1,4 +1,4 @@
-# drop_duplicates() - funksiyası DataFrame-dən eksik (NaN) dəyərləri olan sətirləri silmək üçün istifadə olunur.
+# dropna() - funksiyası DataFrame-dən eksik (NaN) dəyərləri olan sətirləri silmək üçün istifadə olunur.
 
 
 

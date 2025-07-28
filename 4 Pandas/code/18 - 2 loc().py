@@ -12,7 +12,7 @@ print(df)
 print('***********************************************************')
 
 
-#! Indeksi 1 olan setrin 'Name' adli sutunun olan deyerini elde edirik.
+#! Indeksi 1 olan setrin 'Name' adli sutunun deyerini elde edirik.
 secilen_setr = df.loc[1, 'Name']
 print(secilen_setr)
 

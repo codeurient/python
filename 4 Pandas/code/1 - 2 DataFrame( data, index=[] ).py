@@ -14,5 +14,14 @@ melumatlar = {
 df = pd.DataFrame(melumatlar)  
 print(df)
 
+print('*************************************************************')
+
 df = pd.DataFrame(melumatlar, index=['a', 'b', 'c', 'd'])  
 print(df)
+
+
+
+
+
+result = df.loc['b', 'Age']
+print(result)

@@ -9,10 +9,10 @@ yKoordinatininSureti = 2  # bu variable-llara baslangic deyer 1 veririk ki, sonr
 canvas = Canvas(pencere, width=WIDTH, height=HEIGHT, bg="white")
 canvas.pack()
 
-arxaFonSekli = PhotoImage(file="lessons/108 GUI (graphical user interface)/95 width(), height(), coords()/code/space.png")
+arxaFonSekli = PhotoImage(file="1 Python/108 GUI (graphical user interface)/95 width(), height(), coords()/code/space.png")
 arxaFon = canvas.create_image(0,0, image=arxaFonSekli, anchor=NW)
 
-ufoSekli = PhotoImage(file="lessons/108 GUI (graphical user interface)/95 width(), height(), coords()/code/ufo.png")
+ufoSekli = PhotoImage(file="1 Python/108 GUI (graphical user interface)/95 width(), height(), coords()/code/ufo.png")
 # Burda ki, 0 (sifirlar) evez edilir, xKoordinatininSureti ve yKoordinatininSureti variable-larinin aldiqlari deyerleri ile.
 sekil = canvas.create_image(0,0, image=ufoSekli, anchor=NW)
 

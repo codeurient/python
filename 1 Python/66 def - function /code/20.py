@@ -28,7 +28,6 @@
 # 1 + rekursiv(1 - 1)                                                                                                               = 1
 
 def rekursiv(k):
-  
   if(k > 0):
     netice = k + rekursiv(k - 1)
     print(netice)

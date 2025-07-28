@@ -1,4 +1,4 @@
-# normcase() - bu meto emeliyyat sistemlerinde olan fayllarin yaxud qovluqlarin yol adlarini
+# normcase() - bu metod emeliyyat sistemlerinde olan fayllarin yaxud qovluqlarin yol adlarini
 # duzgun formaya salir. Yeni mesel ucn Users sozu bele yazilmalidirsa ve biz xeta ederek UsErS
 # yazsaq onda hemin normcase() metodu bu xetani bawa duwerek onu normal hala salir.
 

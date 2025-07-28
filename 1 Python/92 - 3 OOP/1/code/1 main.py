@@ -20,3 +20,4 @@ class It(Heyvan):
 it = It()
 print(it.yasamaq)
 it.yemek()
+it.hurmek()

@@ -14,3 +14,5 @@ print(masin2.rengi)
 
 masin2.surmek()
 masin2.dayanmaq()
+
+

@@ -13,7 +13,6 @@ def xal_goster():
 def yeniden_oyna():
     pass
 
-yeni_oyun()
 #//! 2
 # {} - dict yaradiriq ve icinde "acar" : "deyer" qeyd edirik. Bu dict sullari saxlamaq ucundur
 # dict icindeki deyerleri ekrana yazdirmaq ucun acar sozu kvadrat moterize icinde qeyd edirik.
@@ -44,3 +43,7 @@ cavablar = [
 # Funksiyanin islemesi ucun onu cagirmaq lazimdir. Lakin funksiyani yanliw yerde cagirsaq xeta verecekdir.
 # Meselen, 'sual' dict-inin ustunde cagirsaq funksiya hemin 'sual' dict-ini gormuyeceyi ucun xeta alariq.
 # Xeta almamaq ucun ise funksiyani 'sual' dict-inin altinda cagirmaq lazimdir.
+
+
+
+yeni_oyun()

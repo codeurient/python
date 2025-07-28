@@ -13,7 +13,7 @@ data = {
 df = pd.DataFrame(data)
 
 
-# 'Qrup' sütununa görə qruplaşdıraq və qrupların cənibi hesablayaq. 
+# 'Qrup' sütununa görə qruplaşdıraq və qrupların cəmini hesablayaq. 
 # Verilənləri qruplaşdırdıqdan sonra onlarla bir əməliyyat icra etmək lazımdır.  Məsələn sum() metodu kimi.
 gruplanmis_df = df.groupby('Qrup').sum()
 

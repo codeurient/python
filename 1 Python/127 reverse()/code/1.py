@@ -8,7 +8,7 @@ print(   siyahi1   )
 
 
 
-siyahi2 = [1,2,3,4,5,6]
+siyahi2 = [1,2,3,4,5,6,7,8,9,10]
 siyahi2.reverse()
 print(   siyahi2   )
 

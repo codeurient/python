@@ -4,3 +4,4 @@ def salam():
 
 # Eger funksiyani cagirdiqda () yumru moterize yazmasaq funksiya islemez
 salam()
+

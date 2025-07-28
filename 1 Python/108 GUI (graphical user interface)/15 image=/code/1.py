@@ -5,7 +5,7 @@ pencere = Tk()
 # image=  - çərçivəyə şəkil əlavə etmək üçün istifade edilir.
 
 # Bunun ucun ilk once sekli PhotoImage() klasi ile cagiririq.
-sekil = PhotoImage(file="1 Python/108 GUI (graphical user interface)/15 image=/code/1.png")
+sekil = PhotoImage(file="/Users/proj/domains/PYTHON/1 Python/108 GUI (graphical user interface)/15 image=/code/1.png")
 
 etiket = Label(
     pencere, 

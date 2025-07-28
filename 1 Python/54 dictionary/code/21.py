@@ -5,7 +5,7 @@
 
 kisiler = {
 
-      murad : {
+      "murad" : {
 
         "Adi": "Murad",
         "Soyadi": "Abbasov",

@@ -5,5 +5,10 @@ from tkinter import *
 pencere = Tk()
 
 
+
+
+
+
+
 # Tk konstruktoru pencere acir, mainloop() ise hemin pencerenin aciq qalmasini saglayir.
 pencere.mainloop()

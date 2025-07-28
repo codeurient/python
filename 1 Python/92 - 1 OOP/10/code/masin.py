@@ -11,3 +11,10 @@ class Masin:
         self.model       = model
         self.ili         = ili
         self.rengi       = rengi
+
+
+
+# klasin obyektinin variable -i
+# klasin variable -i
+
+

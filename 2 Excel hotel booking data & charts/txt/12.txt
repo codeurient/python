@@ -1,6 +1,6 @@
-1. room_status sutununda birinci xanani secdikden sonra komanda yaziria
+1. room_status sutununda birinci xanani secdikden sonra komanda yaziriq
 
-Z. Komanoa: =if(
+Z. Kamanda: =if(
 
 3. Yuxarda olan komandani yazdiqda sonra 'reserved _room_type' xanasini secirik
 

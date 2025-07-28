@@ -3,4 +3,4 @@
 
 ad = "semed vurgun"
 
-print(ad[0:5])
+print(ad[0])

@@ -7,3 +7,5 @@ telebe = ("Aleks", 21, "male", "green", "baku")
 yeniDest = telebe[1:4]
 
 print(    yeniDest    )
+
+

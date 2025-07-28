@@ -7,7 +7,7 @@
 # Pandas ile datalari import (proqrama endirmek) etmək asandır:  CSV, Excel, JSON, SQL ve müxtəlif fayl formatlarında olan məlumatları 
 # import etməyə imkan verir.
 
-# Məlumatların Təhlili və Vizualizasiyası: Pandas sizə təsviri statistikanın hesablanması, verilənlərin qruplaşdırılması, korrelyasiyaların 
+# Məlumatların Təhlili və Vizualizasiyası: Pandasl, sizə təsviri statistikanın hesablanması, verilənlərin qruplaşdırılması, korrelyasiyaların 
 # hesablanması və Matplotlib və Seaborn kimi vizuallaşdırma kitabxanaları ilə inteqrasiya vasitəsilə məlumatların vizuallaşdırılması kimi müxtəlif 
 # məlumat təhlillərini həyata keçirməyə imkan verir.
 

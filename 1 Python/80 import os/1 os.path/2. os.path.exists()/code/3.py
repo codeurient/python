@@ -8,7 +8,7 @@
 
 import os
 
-yol = "/Users/proj/domains/PYTHON/test.txt"
+yol = "/Users/proj/domains/PYTHON"
 # yol = "C:\\Users\\Cakow\\Desktop\\test.txt"
 
 if os.path.exists(yol):

@@ -20,6 +20,6 @@ masin = Masin()
 # metodlar eger cox olarsa onlari yan-yana yazaraq uzatmaq oxumani cetinlesdireceyi ucun, hemin 
 # metodlari alt-alta yazmaq mumkundur. Sadece her metodun onune ters slesh yazmaq lazimdir.
 masin.xoda_salmaq()\
-     .surmek()\
-     .masini_saxlamaq()\
-     .masini_sondurmek()
+    .surmek()\
+    .masini_saxlamaq()\
+    .masini_sondurmek()

@@ -3,9 +3,15 @@
 # Yeni, artiq bu variable-i cagirmaq eslinde o funksiyani cagirmaq kimi nezerde tutulur.
 
 
-def numune(n):
+def numune(n = 11):
   return n * n
 
 vurma = numune
 
-print(    vurma(11)    )
+print(    vurma(5)    )
+
+
+
+
+
+

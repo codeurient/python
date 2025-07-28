@@ -5,8 +5,9 @@
 # Istenilen qeder parametr yazmaq mumkundur.
 
 
+
 def burdaFunksiyaninAdiYazilir(say1 = 5, say2 = 10):
   
-    print( say1 + say2)
+    print( say1 + say2 )
 
 burdaFunksiyaninAdiYazilir()

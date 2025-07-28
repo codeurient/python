@@ -7,16 +7,16 @@
 
 #! super().__init()__ onu bildirir ki, biz ana klasin __init__() konstruktorunu cagiririq.
 
-class Duzbucaqli:
+class Kakulyator:
     def __init__(self, uzunluq, en):
         self.uzunluq = uzunluq
         self.en = en
 
-class Kvadrat(Duzbucaqli):
+class Kvadrat(Kakulyator):
      def __init__(self, uzunluq, en):
         super().__init__(uzunluq, en)
 
-class Kub(Duzbucaqli):
+class Kub(Kakulyator):
     def __init__(self, uzunluq, en, hundurluk):
         super().__init__(uzunluq, en)
         self.hundurluk = hundurluk

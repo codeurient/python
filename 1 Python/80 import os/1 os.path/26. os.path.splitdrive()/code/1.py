@@ -9,7 +9,7 @@ import os
 
 yol = '/Users/proj/domains/PYTHON/test.txt'
 
-qovluq, fayl = os.path.splitdrive(yol)
+qovluq, fayl = os.path.splitdriv(yol)
 
 print("Qovluq:", qovluq)  
 print("Faylin adi:", fayl)  

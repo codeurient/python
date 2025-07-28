@@ -2,8 +2,8 @@
 
 
 import numpy as np
-#! Median ededlerin ardıcıl siyahısını iki bərabər yarıya bölən dəyərdir. Yeni deyerler ilk once
-#! artan sira ile yeniden formalasir ve tam kerkezdeki deyer median sayilir.
+#! Median ededlerin ardıcıl siyahısını iki bərabər yarıya bölən dəyərdir. Yəni, deyerler ilk once
+#! artan sira ile yeniden formalasir ve tam merkezdeki deyer median sayilir.
 qutu1 = [200, 300, 150, 130, 200, 280, 170]
 yeni_array1 = np.array(qutu1)
 # [130, 150, 170, 200, 200, 280, 300]

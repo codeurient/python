@@ -4,7 +4,7 @@ from tkmacosx import *
 # Her duymeni basdiqda say artiran funksiya yaratdiq. LIKE sistemine benzeyir.
 say = 0
 def basmaq():
-    global say
+    global say 
     say += 1
     print(say)
 

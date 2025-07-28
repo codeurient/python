@@ -16,7 +16,7 @@ qeyd = Entry( pencere, font=('Arial', 30) )
 # insert() metodu metn sahesine varsayilan deyer elave etmek ucun istifade edilir. 2 arqument qebul edir.
 # 1ci arqument 0 baslangic pozisiyani teyin edir.
 # 2ci arqument varsayilan deyer.
-qeyd.insert(0, 'Varsayilan deyer')
+qeyd.insert(0, 'Ad')
 qeyd.pack(side=LEFT)
 
 gonderen_duyme = Button( pencere, text="Gonder", command=gonder )

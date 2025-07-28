@@ -4,7 +4,7 @@
 import json
 
 telebe_melumatlari = """{"ad": "Kamal", "yash": 16, "bal": 655}"""
-print(type(telebe_melumatlari))
+
 
 
 melumat = json.loads(telebe_melumatlari)

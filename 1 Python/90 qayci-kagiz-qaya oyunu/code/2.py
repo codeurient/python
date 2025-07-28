@@ -1,7 +1,6 @@
 import random
 
 secmek = ["qayci", "kagiz", "qaya"]
-
 komputer = random.choice(secmek)
 
 # input metodu ile ekrana neyi yazdirmaq istediyimiz haqqda mesaj gonderirik.

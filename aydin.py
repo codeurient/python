@@ -1,0 +1,4 @@
+import ramiz
+
+
+ramiz.a()

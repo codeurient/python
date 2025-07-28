@@ -8,7 +8,7 @@
 class Masin:
 
     def __init__(self, hazirlamaq, model, ili, rengi):
-        # self.model deyerek xasse yaratdiriq ve her xasseye bir parametr teyin edirik.
+        # self.model deyerek xasse yaradiriq ve her xasseye bir parametr teyin edirik.
         self.hazirlamaq  = hazirlamaq
         self.model       = model
         self.ili         = ili

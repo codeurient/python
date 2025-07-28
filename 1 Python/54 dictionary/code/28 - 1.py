@@ -11,20 +11,8 @@
 import json
 
 telebe_melumatlari = {"ad": "Kamal", "yash": 16, "bal": 655}
-print(type(telebe_melumatlari))
+print( type( telebe_melumatlari ) )
 
 # JSON formatina cevrilen melumatlarin tipi STRING olur. 
 melumat = json.dumps(telebe_melumatlari)
 print(melumat)
-
-
-
-
-
-
-
-
-
-
-
-

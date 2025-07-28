@@ -7,6 +7,6 @@ melumatlar = {
   "il": 2009
 }
 
-deyer = melumatlar['il']
+deyer = melumatlar["il"]
 
 print(deyer)

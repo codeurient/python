@@ -18,3 +18,5 @@ vurma = numune(2)
 print(    vurma(11)    )
 
 
+
+

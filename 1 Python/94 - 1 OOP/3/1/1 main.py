@@ -15,9 +15,9 @@ class Toyuq:
 # obyektini gonderek. #! Ancaq, burda "ordek" yazmagimiz sadece ordek klasinin obyektini
 #! gondere bilerik menasina gelmir. Meselen, "Toyuq" obyektinide gondersek kod isleyecek.  
 class Adam:
-    def tutmaq(self, ordek):
-        ordek.gezmek()
-        ordek.danismaq()
+    def tutmaq(self, qus):
+        qus.gezmek()
+        qus.danismaq()
         print("Siz heyvani tutdunuz")
 
 
@@ -26,4 +26,4 @@ toyuq = Toyuq()
 adam = Adam()
 
 #! Burda istesek "ordek"-de yaza bilerik "toyuq" da yaza bilerik. Kod yenede isleyecekdir. 
-adam.tutmaq(toyuq)
+adam.tutmaq(ordek)

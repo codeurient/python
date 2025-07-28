@@ -2,7 +2,10 @@
 # konstruksiyasindan istifade edirik.
 
 try:
-    with open('test2.txt') as sened:
+    with open('example.txt') as sened:
         print(sened.read())
+
+
 except FileNotFoundError:
+    
     print("Bele bir fayl movcud deyil")

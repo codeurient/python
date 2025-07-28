@@ -6,4 +6,4 @@ qidalar = [
         ["napalyon", "keks", "ekler"]
     ]
 
-print(qidalar)
+print(qidalar[1][2])

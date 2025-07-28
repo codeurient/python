@@ -1,4 +1,4 @@
-# spesifikator :<10
+# spesifikator :^10
 
 # bu spesifikator deyerleri merkeze yerlesdirir
 

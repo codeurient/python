@@ -7,3 +7,4 @@ masin1.teker = 2
 
 print(masin1.teker)
 print(masin2.teker)
+print(masin2.hazirlamaq)

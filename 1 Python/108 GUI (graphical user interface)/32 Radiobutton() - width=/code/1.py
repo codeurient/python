@@ -27,7 +27,6 @@ for index in range(len(yemekler)):
                                 pady=25,
                                 indicatoron=0,
                                 width=275
-                                
                             )
 
     yumruDuyme.pack(anchor=W)

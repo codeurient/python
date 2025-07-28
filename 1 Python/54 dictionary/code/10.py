@@ -5,7 +5,7 @@
 melumatlar = {
   "istehsalatci": "Renault",
   "model": "Clio",
-  "il": 2009
+  "il": 2009,
 }
 
 melumatlar['reng'] = "qirmizi"

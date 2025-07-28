@@ -6,9 +6,9 @@
 import os
 
 yol1 = os.getcwd()
-print (yol1)
+print(yol1)
 
-os.chdir( "numune" )
+os.chdir("numune")
 
 yol2 = os.getcwd()
 print (yol2)

@@ -18,6 +18,7 @@ df2 = df1.copy()
 df2.loc[0, "Price"] = 120
 df2.loc[1, "Price"] = 175
 df2.loc[2, "Price"] = 30
+
 df2.loc[0, "Quantity"] = 7
 df2.loc[1, "Quantity"] = 1
 df2.loc[2, "Quantity"] = 4

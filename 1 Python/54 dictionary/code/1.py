@@ -11,6 +11,7 @@
 # : cut noqtenin solunda yazilana 'acar sozu' saginda yazilana 'deyer' deyirler. 
 # Melumatlar ise bir-birinden verguller ile ayrilmalidir.
 
+# key : value    -  properties [ xassələr - свойства ]
 
 melumatlar = {
   "istehsalatci": "Renault",

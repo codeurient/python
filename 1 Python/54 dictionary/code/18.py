@@ -1,4 +1,4 @@
-# disct() metodundan da istifade ederek 1 dictionary-ni basqa bir variable-a kopyalamaq mumkundur 
+# dict() metodundan da istifade ederek 1 dictionary-ni basqa bir variable-a kopyalamaq mumkundur 
 
 
 melumatlar = {

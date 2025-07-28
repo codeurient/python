@@ -47,6 +47,10 @@ def yeniden_oyna():
     else:
         return False
 
+
+
+
+
 sual = {
     "Python dilini kim yaradib? " : "A",     "Python necenci ile yaranib? " : "B",     "Python adi, hansi komedi klubun adindan ilhamlanmisdir? " : "C",     "Dunya yuvarlaqdir mi? " : "A",
 }
@@ -62,6 +66,3 @@ while yeniden_oyna():
     yeni_oyun()
 
 print("Sagol!!!!!!!")
-
-
-

@@ -1,7 +1,12 @@
 from tkinter import *
+from tkinter import filedialog
 
 def fayliAc():
-    print("Fayl acildi")
+        faylinYolu = filedialog.askopenfilename(initialdir='lessons/108 GUI (graphical user interface)/62 filedialog - askopenfilename() - 2')
+        fayl = open(faylinYolu, 'r')
+        print(  fayl.read()  )
+        fayl.close()
+        
 def yaddaSaxla():
     print("Fayl yddasa yazildi")
 def kesmek():
@@ -25,7 +30,7 @@ pencere.config(menu=menuBar)
 
 fileMenu = Menu(menuBar, tearoff=0)
 menuBar.add_cascade(label="File", menu=fileMenu)
-fileMenu.add_cascade(label="Ac", command=fayliAc, image=acmaqSekli, compound=LEFT)
+fileMenu.add_cascade(label="Open folder", command=fayliAc, image=acmaqSekli, compound=LEFT)
 fileMenu.add_cascade(label="Yadda saxla", command=yaddaSaxla, image=yaddaSaxlaSekli, compound=LEFT)
 fileMenu.add_separator()
 fileMenu.add_cascade(label="Cix", command=cixisEt, image=cixisEtSekli, compound=LEFT)

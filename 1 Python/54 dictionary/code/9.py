@@ -1,4 +1,4 @@
-# axtarilan acar sozun dict-in icinde olub olmadigini yoxamaq ucun if-in de istifade etmek olar
+# axtarilan acar sozun dict-in icinde olub olmadigini yoxlamaq ucun if-in  istifade etmek olar
 
 # Bunun ucun acar sozu string tipinde yazmaq lazimdir
 

@@ -4,3 +4,5 @@ def seninAdinNedir(ad):
 
 seninAdinNedir("Camal")
 seninAdinNedir("Murad")
+
+

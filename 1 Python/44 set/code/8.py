@@ -3,6 +3,6 @@
 
 my_set = {"alma", "armud", "nar"}
 
-my_set.update(    ["portagal", "heyva", "qarpiz", "armud"]       )
+my_set.update(    ["portagal", "heyva", "qarpiz", "armud", "alma"]       )
 
 print(my_set)

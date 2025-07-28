@@ -17,3 +17,4 @@ yeniMelumatlar['il'] = 2010
 
 print(melumatlar)
 print(yeniMelumatlar)
+

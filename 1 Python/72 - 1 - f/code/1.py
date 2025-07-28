@@ -3,3 +3,6 @@
 
 ededIki = 23
 print(f"Menim {ededIki} yasim var")
+
+
+

@@ -29,7 +29,3 @@ def rekursiv(k):
   return netice
 
 rekursiv(7)
-
-
-
-

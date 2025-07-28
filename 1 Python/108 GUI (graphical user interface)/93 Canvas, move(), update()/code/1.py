@@ -28,7 +28,7 @@ pencere.bind("<d>", saga_hereket)
 canvas = Canvas(pencere, width=500, height=500)
 canvas.pack()
 
-masinSekli = PhotoImage(file='lessons/108 GUI (graphical user interface)/92 racecar/code/racecar.png')
+masinSekli = PhotoImage(file='1 Python/108 GUI (graphical user interface)/93 Canvas, move(), update()/code/racecar.png')
 
 # create_image() bu metod 'canvas' icinde sekil yerlesdirmek ucun istifade edilir. 
 # '1ci ve 2ci' parametrler seklin hansi koordinatlarda yerleseceyini teyin edir. '3cu' parametri hansi seklin olacagini teyin edir. 

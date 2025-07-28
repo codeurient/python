@@ -14,7 +14,10 @@ ad = "Ali" # GLOBAL variable
 def cari_funksiya():
     ad = "Jony" # LOCAL variable
     print(ad)
+    
 cari_funksiya()
 
 print(ad)
+
+
 

@@ -25,4 +25,29 @@ def faktoriyel(n):
    else:  
        return n*faktoriyel(n-1)  
 
-print(faktoriyel(4))
+print(   faktoriyel(10)   )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

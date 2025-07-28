@@ -18,5 +18,6 @@ for i in yeni_siralama:
 
 
 
+
 # sort() - metod - cunki kankret bir tip olan list ile isleyir
 # sorted() - funksiya - ferqi yoxdu list, tuple. 

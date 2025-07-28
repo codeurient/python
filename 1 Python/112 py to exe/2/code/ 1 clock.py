@@ -1,10 +1,3 @@
-# Sonra ise terminalda bu komandani yaziriq:        #!    pyinstaller -F -w -i clock.ico clock.py
-    #? -F               - her sey 1 faylin icinde olsun demekdir.
-    #? -w               - is bitdikden sonra terminal pencereden cix demekdir.
-    #? -i icon.ico      - ikonu proqrama elave et demekdir. (goruntu yaradiriq)
-    #? clock.py         - hansi fayli proqrama ceviririkse onun adini yaziriq.
-
-
 from tkinter import *
 from time import *
 

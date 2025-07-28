@@ -2,4 +2,4 @@
 # olmur string olur.
 
 ad = 'Bob'
-print("ad")
+print(ad)

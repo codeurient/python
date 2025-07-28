@@ -23,4 +23,4 @@ def vurma(birinciEded, ikinciEded):
 # gonderilir ve orda toplandiqdan sonra 1ci funksiya neticeni return edir yeni qaytarir. Netice 3+5=8 dir.
 # Eyni funksiyani iki defe cagirmisiq deye 2 defe 8 return olacaq. Ikinci funksiya ise return olan neticeni 
 # vuracaq. Yeni, 8*8=64 return edecek. Return olan neticeni ise asagida print() metodu ile ekrana yazdiririq.
-print(vurma(3, 5))
+print(   vurma(3, 5)   )

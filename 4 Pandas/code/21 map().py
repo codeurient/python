@@ -3,6 +3,7 @@ import pandas as pd
 melumatlar = { 'Month' : [ 'January', 'Feburary', 'March', 'April' ]}
 yeni_deyer = pd.DataFrame(melumatlar)
 
+print(yeni_deyer)
 # 
 def deyerler(deyer):
     # İndexing qaydasi ilə həmin dəyərlərin bir parçasını əldə edirik.

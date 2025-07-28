@@ -8,6 +8,7 @@ canvas = Canvas(pencere, height=500, width=500)
 
 # outline - bu parametr ile xettin kenarlarinin rengini teyin eetmek mumkundur.
 noqteler = [250, 0, 500, 500, 0, 500]
+
 canvas.create_polygon(noqteler, fill="yellow", outline="black")
 canvas.pack()
 

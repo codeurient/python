@@ -5,7 +5,3 @@ yeni_siralama = sorted(telebeler, reverse=True)
 
 for i in yeni_siralama:
     print(i)
-
-
-
-
