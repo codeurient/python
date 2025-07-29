@@ -13,7 +13,7 @@
 def numune(n):
   return lambda a : a * n
 
-vurma = numune(2)
+vurma = numune(10)
 
 print(    vurma(11)    )
 

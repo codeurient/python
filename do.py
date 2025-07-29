@@ -31,14 +31,5 @@
 # for
 # range()
 
-# 54 - 30 kecdik ...
+# 71 - 7 kecdik ...
 
-qutu1 = [ 'alma', 'armud', 'nar' ]
-qutu2 = ( 'alma', 'armud', 'nar' )
-
-
-qutu1[0] = 'qarpiz'
-print(qutu1[0])
-
-qutu2[0] = 'qarpiz'
-print(qutu2[0])

@@ -26,4 +26,4 @@ toyuq = Toyuq()
 adam = Adam()
 
 #! Burda istesek "ordek"-de yaza bilerik "toyuq" da yaza bilerik. Kod yenede isleyecekdir. 
-adam.tutmaq(ordek)
+adam.tutmaq(toyuq)
