@@ -3,9 +3,9 @@ say2   = int( input( 'Nece defe? ' )  )
 simvol = input( 'Hansi simvol ? ' )
 
 
-for _ in range(say1):
+for i in range(say1):
 
-    for _ in range(say2):
+    for x in range(say2):
 
         print(simvol)
 

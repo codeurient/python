@@ -17,7 +17,3 @@
 
 # 2ci deyerde olan iterable obyektlerden bir-bir elde olunan deyerleri, 1ci parametrde olan 
 # funksiyaya oturerek ferqli emeliyyatlar icra etmek mumkundur.
-
-
-
-

@@ -9,6 +9,5 @@ cisim = "qeder"
 
 cumle = "{} saman yoluna {} cixa bilmez. Cunki samanlari yiye-yiye geder."
 
-# 1ci parametr 1ci bezekli moterize 2ci parametr 2ci bezekli moterize icine avtomatik olaraq gonderilir. 
 print(    cumle.format(heyvan, cisim)    )
 

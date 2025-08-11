@@ -2,6 +2,6 @@
 # istifade etmek mumkundur.
 
 
-ekranaYazdir = f'  {"ttest".replace("tt", "t")}  '
+ekranaYazdir = f'  {    "ttest".replace("tt", "t")   }  '
 
 print(ekranaYazdir)

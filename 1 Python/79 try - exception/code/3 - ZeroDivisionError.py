@@ -6,5 +6,7 @@ try:
     netice = bolunen / bolen
 except ZeroDivisionError:
     print("Sifira bolmek olmaz")
+except ValueError:
+    print("String daxil etmek olmaz")
 except Exception:
     print("Bir weyler yanliwdir")

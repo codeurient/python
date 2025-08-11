@@ -1,9 +1,9 @@
 # bu variable-a True veririk eger arqument ile gonderilen deyer
 # gosterilenden boyuk olarsa eks halda False veririk
 
-ededi_yoxla = lambda yash:          True          if yash >= 18          else               False
+ededi_yoxla = lambda yash:          'Boyukdur'          if yash >= 18          else               'Kicikdir'
 
-print(  ededi_yoxla(25)  )
+print(  ededi_yoxla(5)  )
 
 
 

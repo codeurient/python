@@ -1,4 +1,0 @@
-import ramiz
-
-
-ramiz.a()

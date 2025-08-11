@@ -5,7 +5,7 @@ def yeni_oyun():
         print(acarlar)
         #//! Burda 2ci for dongusu 1ci for dongusunun icinde oldugu ucun, 1 defe yuxarda olan for dongusu isleyende
         # onun icinde olan 2ci for dongusu "cavablar" list-inin icindeki deyer qeder tekrarlanacaq. Yeni, 4 defe.
-        for i in cavablar: 
+        for i in cavablar[0]: 
             print(i)
 # 
 def suali_yoxla():

@@ -4,6 +4,9 @@ def yeni_oyun():
         print("----------------------")
         print(acarlar)
 # 
+
+
+
 def suali_yoxla():
     pass
 # 
@@ -46,4 +49,5 @@ cavablar = [
 
 
 
-yeni_oyun()
+
+yeni_oyun() 

@@ -31,5 +31,5 @@
 # for
 # range()
 
-# 71 - 7 kecdik ...
 
+# 98 - 5 qaldiq ...

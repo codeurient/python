@@ -9,7 +9,7 @@
 import mesaj
 
 # Burda print() metodundan istifade etmemisik cunki print() metodundan mesaj faylinda istifade etmisik.
-mesaj.salam()
+mesaj.copy()
 
 # Eger hal-hazirda icinde oldugumuz faylda print metodundan istifade etmek isteseydik onda mesaj faylinda
 # print() evezine return yazmaliyiq.
