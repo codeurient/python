@@ -3,4 +3,4 @@
 
 # Yeni, eyni vaxtda hem deyer ataya hemde ekrana yazdira bacarmiriq.
 
-print(xosbext = True)  
+print(   xosbext = True    )  

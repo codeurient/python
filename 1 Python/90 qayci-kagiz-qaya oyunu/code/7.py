@@ -48,4 +48,3 @@ while True:
     yeniden_oynayaqmi = input("Yeniden oynamaq isteyirsenmi? (Beli/Xeyr): ").lower()
     if yeniden_oynayaqmi != "beli":
         break
-print("Sagol")   

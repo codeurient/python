@@ -11,4 +11,3 @@ def seninAdinNedir(**telebe):
      
 seninAdinNedir(ad = "Semed", soyad = "Vurgun")
 
-

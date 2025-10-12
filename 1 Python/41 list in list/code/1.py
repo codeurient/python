@@ -7,3 +7,5 @@ qidalar = [
     ]
 
 print(qidalar[1][2])
+
+

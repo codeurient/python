@@ -26,3 +26,4 @@
     # e) pip list --outdated            - bu komanda hansi paketin kohneldiyini oyrenmek ucundur.
     # f) pip install pygame --upgrade   - bu komanda eger kohnelen paket varsa onu yenilemek ucundur.
     # g) pip install pandas             - bu komanda yeni paket yuklemek ucundur.
+

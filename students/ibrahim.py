@@ -27,4 +27,4 @@
 # print(d)
 
 
-# 34 qaldiq
+# 92 - 7  qaldiq

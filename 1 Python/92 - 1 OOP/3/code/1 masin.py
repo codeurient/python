@@ -1,8 +1,8 @@
 # metodlar normal funksiyalar kimi def acar sozu ile yaradilir:
 
-# asagida gosterilen metod 1 arqumente sahibdir. 
+# asagida gosterilen metodun 1 parametri var. 
 
-# self arqumenti Obyektin ozunu nezerde tutur.
+# self parametri Obyektin ozunu nezerde tutur.
 
 class Masin:
     hazirlanib  = None
@@ -12,7 +12,7 @@ class Masin:
 
     def surmek(self):
         print("Masin surulur")
-
+        
     def dayanmaq(self):
         print("Masin dayandi")
 

@@ -9,4 +9,4 @@
 def buradaFunksiyaninAdiYazilir():
     print("Salam necesen")
 
-buradaFunksiyaninAdiYazilir()
+buradaFunksiyaninAdiYazilir

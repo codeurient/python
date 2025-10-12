@@ -20,7 +20,7 @@ sual = {
     "Python adi, hansi komedi klubun adindan ilhamlanmisdir? " : "C",
     "Dunya yuvarlaqdir mi? " : "A",
 }
-yeni_oyun()
+
 
 #//! 3
 cavablar = [
@@ -35,3 +35,6 @@ cavablar = [
 
 #//! 4
 # yeni_oyun() funksiyasini 'sual' dict-inin ustunden goturub altina yerlesdiririk ve kodumuz isleyir.
+
+
+yeni_oyun()

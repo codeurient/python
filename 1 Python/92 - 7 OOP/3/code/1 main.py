@@ -21,5 +21,9 @@ class Kub(Kalkulyator):
 kvadrat = Kvadrat(3, 3)
 kub = Kub(4, 4, 4)
 
+
+
+
+
 print(kvadrat.sahe())
 print(kub.hecm())

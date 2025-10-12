@@ -1,6 +1,6 @@
 # Klaslar sahibdir:
 
-# 1: xasselere
+# 1: xasselere - property
 # 2: metodlara 
 
 
@@ -10,13 +10,3 @@ class Masin:
     model       = None
     ili         = None
     rengi       = None
-
-
-
-
-
-
-
-
-
-

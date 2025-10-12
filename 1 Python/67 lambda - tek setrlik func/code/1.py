@@ -19,3 +19,8 @@ print(     tekSetrlikFunksiya(5)     )
 
 
 
+
+
+
+
+

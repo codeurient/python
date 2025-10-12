@@ -14,7 +14,7 @@ class Kakulyator:
 
 class Kvadrat(Kakulyator):
      def __init__(self, uzunluq, en):
-        super().__init__(uzunluq, en)
+        super().__init__(uzunluq, uzunluq)
 
 class Kub(Kakulyator):
     def __init__(self, uzunluq, en, hundurluk):
@@ -23,3 +23,7 @@ class Kub(Kakulyator):
 
 kvadrat = Kvadrat(3, 3)
 kub = Kub(3, 3, 3)
+
+
+
+

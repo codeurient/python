@@ -5,6 +5,7 @@ def yeni_oyun():
         print(acarlar)
 # 
 
+yeni_oyun() 
 
 
 def suali_yoxla():
@@ -50,4 +51,4 @@ cavablar = [
 
 
 
-yeni_oyun() 
+

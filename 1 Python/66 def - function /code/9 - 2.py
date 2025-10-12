@@ -6,9 +6,17 @@
 
 
 def hesabla(*parametr): # Bu parametrin tipi tuple-dir.
+
     cem = 0
-    for eldeEdilenDeyerler in parametr:
-        cem += eldeEdilenDeyerler   # 4 + 6 + 2 + 4 + 3 + 8 + 5 + 4 = 36
+
+    for i in parametr:
+        cem += i   # 4 + 6 + 2 + 4 + 3 + 8 + 5 + 4 = 36
+
+
+
     return cem
+
+
+
 
 print(  hesabla(4,6,2,4,3,8,5,4)  )

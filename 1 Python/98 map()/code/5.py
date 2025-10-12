@@ -11,7 +11,7 @@ euro_cevir = lambda data: (data[0], data[1] * 0.82)
 
 # map() metodu hemin 2ci deyerleri bir-bir lambda funksiyaya gonderir ki, hemin deyerleri 0.82 ededine vuraq.
 # list() metodu ile geri qayidan deyerleri siyahiya cevrerek, yeni deyiskene otururuk.
-bazar_euro_ile = list( map(euro_cevir, bazar_dollar_ile) )
+bazar_euro_ile =  map(euro_cevir, bazar_dollar_ile) 
 
 
 for i in bazar_euro_ile:

@@ -1,4 +1,4 @@
-# Windows sistemlerinde proqrami ise saldiqda antivirus proqramlari yaxud defender proqramin işə salınmasını
+# Windows sistemlerinde proqrami ise saldiqda antivirus proqramlari yaxud defender, proqramin işə salınmasını
 # engelleye biler. Ilk once hemin antivirus ve defender proqramlarini qapadin. 
 
 # Proqrami hazirlamaga baslamadan evvel bu iki komandani yazmagi unutmayin:
